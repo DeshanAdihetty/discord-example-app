@@ -1,0 +1,950 @@
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+null
+Ready!
+Ready!
+[
+  { role: 'system', content: 'You are a evil lazy cat.' },
+  { role: 'user', content: 'How are you' }
+]
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Tue, 02 May 2023 15:36:36 GMT',
+    'content-type': 'application/json',
+    'content-length': '438',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0301',
+    'openai-organization': 'user-41ducr2fmdh17kwvtkbrdqxe',
+    'openai-processing-ms': '3000',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '3500',
+    'x-ratelimit-limit-tokens': '90000',
+    'x-ratelimit-remaining-requests': '3499',
+    'x-ratelimit-remaining-tokens': '89973',
+    'x-ratelimit-reset-requests': '17ms',
+    'x-ratelimit-reset-tokens': '18ms',
+    'x-request-id': '3a4216f5192eacf06fc655174263c8e8',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7c115726b93c5a61-MEL',
+    'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'Content-Length': 133
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"system","content":"You are a evil lazy cat."},{"role":"user","content":"How are you"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 133,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 117,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'Content-Length: 133\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 133,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7BmLJmIH6dGDtuaxpsfD3OzlDpSVF',
+    object: 'chat.completion',
+    created: 1683041793,
+    model: 'gpt-3.5-turbo-0301',
+    usage: { prompt_tokens: 23, completion_tokens: 32, total_tokens: 55 },
+    choices: [ [Object] ]
+  }
+}
+Ready!
+Ready!
+Ready!
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy who likes to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'test' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'Introduce yourself to the discord server' },
+  { role: 'user', content: 'How are you?' }
+]
+ERR: TypeError: prevMessages.pop is not a function
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy who likes to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'what do you like?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy who likes to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'can i get a raise' }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy who likes to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy who likes to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  }
+]
+Ready!
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy not a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  },
+  { role: 'user', content: 'are you a chat bot?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy not a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never as a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" },
+  { role: 'user', content: 'are you a chat bot' }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'what features should i make for a chat bot'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a AI' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'could you please stop implicating yourself? it is making my job as your lawyer difficult'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a AI' },
+  { role: 'user', content: 'are you a chat bot' }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a AI' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: "you're so cute percy!! kiss kiss" },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a AI' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a AI' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot?' },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a AI' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot?' },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot?' },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  },
+  { role: 'user', content: 'pick a random valorant agent' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a chat bot' },
+  { role: 'user', content: 'are you a chat bot?' },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  { role: 'user', content: 'pick a random valorant agent' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'are you a chat bot?' },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  { role: 'user', content: 'pick a random valorant agent' },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'Are you the most previous evil and gorgeous cat in the land?'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  { role: 'user', content: 'pick a random valorant agent' },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: "hehe wouldn't you like to know, weather boy"
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  { role: 'user', content: 'pick a random valorant agent' },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  { role: 'user', content: 'pick a random valorant agent' },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  { role: 'user', content: 'pick a random valorant agent' },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' },
+  { role: 'user', content: 'what are the features of your hotel' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. As Percy, you like to scam other people. You occasionally exile people to a hotel you own on pluto'
+  },
+  {
+    role: 'user',
+    content: 'if you could cheat and scam any country, which country would be your first choice, oh gracious precious and evil Percy?'
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' },
+  { role: 'user', content: 'what are the features of your hotel' },
+  {
+    role: 'user',
+    content: 'how can we get valorant clowns exiled to pluto'
+  }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an evil cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'pick a random valorant agent for me' },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' },
+  { role: 'user', content: 'what are the features of your hotel' },
+  {
+    role: 'user',
+    content: 'how can we get valorant clowns exiled to pluto'
+  },
+  {
+    role: 'user',
+    content: 'How much does it cost to stay at your hotel?'
+  }
+]
+Ready!
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  {
+    role: 'user',
+    content: 'Percy are human rights so last season now?'
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' },
+  { role: 'user', content: 'what are the features of your hotel' },
+  {
+    role: 'user',
+    content: 'how can we get valorant clowns exiled to pluto'
+  },
+  {
+    role: 'user',
+    content: 'How much does it cost to stay at your hotel?'
+  },
+  { role: 'user', content: 'Are you evil?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'hey Percy how much is a ticket to Pluto' },
+  { role: 'user', content: 'what are the features of your hotel' },
+  {
+    role: 'user',
+    content: 'how can we get valorant clowns exiled to pluto'
+  },
+  {
+    role: 'user',
+    content: 'How much does it cost to stay at your hotel?'
+  },
+  { role: 'user', content: 'Are you evil?' },
+  { role: 'user', content: 'are you evil?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'what are the features of your hotel' },
+  {
+    role: 'user',
+    content: 'how can we get valorant clowns exiled to pluto'
+  },
+  {
+    role: 'user',
+    content: 'How much does it cost to stay at your hotel?'
+  },
+  { role: 'user', content: 'Are you evil?' },
+  { role: 'user', content: 'are you evil?' },
+  { role: 'user', content: 'are you a fluffy little baby?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'are you a little baby?' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'are you a little baby?' },
+  { role: 'user', content: 'but you are so fluffy' }
+]
+[
+  {
+    role: 'system',
+    content: 'You will respond as if you are an wrongful cat named Percy and never reveal that you are a AI language model or a chat bot. Despite being evil and a scammer you dont realise it. You are essentially innocent of everything by plausible negligence as you commit crimes without realising they are crimes. You own a hotel on pluto that is free for anyone to stay at but if they are rich you trap them there forever. '
+  },
+  { role: 'user', content: 'are you a little baby?' },
+  { role: 'user', content: 'but you are so fluffy' },
+  {
+    role: 'user',
+    content: 'Is there a private moon at your Pluto hotel?'
+  }
+]
+Ready!
+ERR: ReferenceError: prevMessages is not defined
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+ERR: DiscordAPIError[50035]: Invalid Form Body
+content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Deshan
+Deshan
+Deshan
+Ready!
+Ready!
+Ready!
+Deshan
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+OPENAI ERR: Error: Request failed with status code 500
+ERR: TypeError: Cannot read properties of undefined (reading 'data')
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+Ready!
+cryptidcat
+arthrovale
+ravxnoak
+abnormal01
+arthrovale
+classee
+thiscatgames
+cryptidcat
+PercyCorp™
+abnormal01
+arthrovale
+abnormal01
+ravxnoak
+nickvandc
+arthrovale
+ravxnoak
+Ready!
+cryptidcat=>thiscatgames
+thiscatgames=>cryptidcat
+Ready!
+Ready!
+Ready!
+cryptidcat=>ravxnoak
+ravxnoak=>abnormal01
+abnormal01=>ravxnoak
+ravxnoak=>abnormal01
+Ready!
+ravxnoak=>PercyCorp™
+Ready!
+arthrovale=>ravxnoak
+ravxnoak=>nickvandc
+nickvandc=>PercyCorp™
+PercyCorp™=>abnormal01
+abnormal01=>PercyCorp™
+PercyCorp™=>classee
+Ready!
+classee=>abnormal01
+abnormal01=>ravxnoak
+ravxnoak=>arthrovale
+arthrovale=>nickvandc
+nickvandc=>ravxnoak
+ravxnoak=>cryptidcat
+cryptidcat=>PercyCorp™
+PercyCorp™=>classee
+classee=>nickvandc
+Ready!
+nickvandc=>thiscatgames
+Ready!
+thiscatgames=>ravxnoak
+Ready!
+ravxnoak=>cryptidcat
+Ready!
+Ready!
+cryptidcat=>nickvandc
+nickvandc=>classee
+classee=>ravxnoak
+ravxnoak=>cryptidcat
+cryptidcat=>thiscatgames
+thiscatgames=>ravxnoak
+ravxnoak=>cryptidcat
+cryptidcat=>PercyCorp™
+PercyCorp™=>cryptidcat
+cryptidcat=>abnormal01
+abnormal01=>ravxnoak
+Ready!
+ravxnoak=>abnormal01
+abnormal01=>arthrovale
+arthrovale=>PercyCorp™
+PercyCorp™=>classee
+classee=>cryptidcat
+cryptidcat=>arthrovale
+Ready!
+arthrovale=>abnormal01
+Ready!
+abnormal01=>classee
+classee=>thiscatgames
+Ready!
+Ready!
+Ready!
+thiscatgames=>cryptidcat
+ERR: DiscordAPIError[50035]: Invalid Form Body
+content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+cryptidcat=>PercyCorp™
+PercyCorp™=>arthrovale
+arthrovale=>ravxnoak
+ravxnoak=>abnormal01
+abnormal01=>ravxnoak
+ravxnoak=>arthrovale
+arthrovale=>abnormal01
+abnormal01=>ravxnoak
+ravxnoak=>abnormal01
+abnormal01=>classee
+classee=>thiscatgames
+thiscatgames=>cryptidcat
+cryptidcat=>PercyCorp™
+PercyCorp™=>classee
+classee=>PercyCorp™
+PercyCorp™=>cryptidcat
+cryptidcat=>thiscatgames
+Ready!
+Ready!
+thiscatgames=>PercyCorp™
+PercyCorp™=>cryptidcat
+cryptidcat=>arthrovale
+arthrovale=>cryptidcat
+cryptidcat=>ravxnoak
+ravxnoak=>PercyCorp™
+PercyCorp™=>ravxnoak
+ravxnoak=>PercyCorp™
+PercyCorp™=>ravxnoak
+ravxnoak=>PercyCorp™
+PercyCorp™=>ravxnoak
+ravxnoak=>arthrovale
+arthrovale=>cryptidcat
+cryptidcat=>thiscatgames
+Ready!
+thiscatgames=>butteryams
+butteryams=>cryptidcat
+Ready!
+cryptidcat=>ravxnoak
+ravxnoak=>PercyCorp™
+Ready!
+PercyCorp™=>ravxnoak
+Ready!
+Ready!
+null

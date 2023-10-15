@@ -1,0 +1,165 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#box {
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+    .cat * {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cat, .ears, .eyes, .muzzle, .body, .paw, .tail, .tail-segment {position: relative;}
+  .head, .body, .paw, .tail-segment {background-color: #000000;}
+  .left {float: left;}
+  .right {float: right;}
+
+  .head {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    z-index: 100;
+    animation: head-bob 5s infinite ease-in-out;
+    
+  }
+  .ears {
+    top: -20px;
+    z-index: -100;
+  }
+  .ear {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #000000;
+  }
+  .ear.left {
+    transform: rotate(-20deg) translateX(-10px);
+    
+  }
+  .ear.right {
+    transform: rotate(20deg) translateX(10px);
+    
+  }
+  .eyes {
+    top: -18px;
+    width: 60%;
+   
+  }
+  .eye {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: #FFD700;
+    animation: eye-blink 5s infinite;
+    text-align: center;
+    position: relative;
+    
+    
+  }
+  .pupil {
+    top: 4px;
+    left: 0px;
+    width: 4px;
+    height: 10px;
+    background: black;
+    border-radius: 70%;
+    position: relative;
+    
+    
+    
+  }
+  .muzzle {
+    top: 50px;
+  }
+  .nose {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #666666;
+  }
+  .body {
+    width: 200px;
+    height: 120px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    top: -75px;
+    left: 90px;
+    z-index: -10;
+    
+  }
+  .paw {
+    height: 30px;
+    width: 50px;
+    border-radius: 25px;
+    left: -100px;
+    top: 90px;
+  }
+  .tail {
+    left: 180px;
+    top: -100px;
+    transform: rotate(90deg);
+    
+  }
+  
+  .tail-segment {
+    height: 20px;
+    width: 30px;
+    border-radius: 25px;
+    top: 0px;
+    left: 10px;
+    /*transform: rotate(10deg);*/
+    animation: tail-swish 5s infinite cubic-bezier(.8,0,.2,1);
+  }
+  
+  @keyframes tail-swish {
+    0% {transform: rotate(12deg);}
+    10% {transform: rotate(12deg);}
+    40% {transform: rotate(-5deg);}
+    50% {transform: rotate(5deg);}
+    60% {transform: rotate(-5deg);}
+    100% {transform: rotate(12deg);}
+  }
+  
+
+  
+  @keyframes eye-blink {
+    0% {transform: scaleY(0);}
+    10% {transform: scaleY(0);}
+    15% {transform: scaleY(1);}
+    48% {transform: scaleY(1);}
+    50% {transform: scaleY(0);}
+    52% {transform: scaleY(1);}
+    90% {transform: scaleY(1);}
+    95% {transform: scaleY(0);} 
+    100% {transform: scaleY(0);}  
+  }
+  
+  .speech-bubble {
+    position: absolute;
+    background: white;
+    border-radius: .4em;
+  }
+  
+  .speech-bubble:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 30px solid transparent;
+    border-bottom-color: white;
+    border-top: 0;
+    border-right: 0;
+    margin-left: 65px;
+    margin-top: -5px;
+    rotate: 50deg;
+  
+  }
+  
+  

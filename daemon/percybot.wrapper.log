@@ -1,0 +1,1778 @@
+2023-05-02 21:01:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 21:01:01 - Started 17300
+2023-05-02 21:17:52 - Stopping percybot.exe
+2023-05-02 21:17:52 - ProcessKill 17300
+2023-05-02 21:17:52 - Found child process: 19924 Name: conhost.exe
+2023-05-02 21:17:52 - Found child process: 2184 Name: node.exe
+2023-05-02 21:17:52 - Stopping process 19924
+2023-05-02 21:17:52 - Send SIGINT 19924
+2023-05-02 21:17:52 - SIGINT to 19924 failed - Killing as fallback
+2023-05-02 21:17:52 - Stopping process 2184
+2023-05-02 21:17:52 - Send SIGINT 2184
+2023-05-02 21:17:52 - SIGINT to 2184 failed - Killing as fallback
+2023-05-02 21:17:52 - Stopping process 17300
+2023-05-02 21:17:52 - Send SIGINT 17300
+2023-05-02 21:17:52 - SIGINT to 17300 failed - Killing as fallback
+2023-05-02 21:17:52 - Finished percybot.exe
+2023-05-02 21:17:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 21:17:54 - Started 18768
+2023-05-02 21:20:21 - Stopping percybot.exe
+2023-05-02 21:20:21 - ProcessKill 18768
+2023-05-02 21:20:21 - Found child process: 14232 Name: conhost.exe
+2023-05-02 21:20:21 - Found child process: 18500 Name: node.exe
+2023-05-02 21:20:21 - Stopping process 14232
+2023-05-02 21:20:21 - Send SIGINT 14232
+2023-05-02 21:20:21 - SIGINT to 14232 failed - Killing as fallback
+2023-05-02 21:20:21 - Stopping process 18500
+2023-05-02 21:20:21 - Send SIGINT 18500
+2023-05-02 21:20:21 - SIGINT to 18500 failed - Killing as fallback
+2023-05-02 21:20:21 - Stopping process 18768
+2023-05-02 21:20:21 - Send SIGINT 18768
+2023-05-02 21:20:21 - SIGINT to 18768 failed - Killing as fallback
+2023-05-02 21:20:21 - Finished percybot.exe
+2023-05-02 21:20:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 21:20:23 - Started 2500
+2023-05-02 21:35:17 - Stopping percybot.exe
+2023-05-02 21:35:17 - ProcessKill 2500
+2023-05-02 21:35:17 - Found child process: 9492 Name: conhost.exe
+2023-05-02 21:35:17 - Found child process: 6724 Name: node.exe
+2023-05-02 21:35:17 - Stopping process 9492
+2023-05-02 21:35:17 - Send SIGINT 9492
+2023-05-02 21:35:17 - SIGINT to 9492 failed - Killing as fallback
+2023-05-02 21:35:18 - Stopping process 6724
+2023-05-02 21:35:18 - Send SIGINT 6724
+2023-05-02 21:35:18 - SIGINT to 6724 failed - Killing as fallback
+2023-05-02 21:35:18 - Stopping process 2500
+2023-05-02 21:35:18 - Send SIGINT 2500
+2023-05-02 21:35:18 - SIGINT to 2500 failed - Killing as fallback
+2023-05-02 21:35:18 - Finished percybot.exe
+2023-05-02 21:35:19 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 21:35:19 - Started 7364
+2023-05-02 21:36:27 - Stopping percybot.exe
+2023-05-02 21:36:27 - ProcessKill 7364
+2023-05-02 21:36:27 - Found child process: 21588 Name: conhost.exe
+2023-05-02 21:36:27 - Found child process: 21572 Name: node.exe
+2023-05-02 21:36:27 - Stopping process 21588
+2023-05-02 21:36:27 - Send SIGINT 21588
+2023-05-02 21:36:27 - SIGINT to 21588 failed - Killing as fallback
+2023-05-02 21:36:27 - Stopping process 21572
+2023-05-02 21:36:27 - Send SIGINT 21572
+2023-05-02 21:36:27 - SIGINT to 21572 failed - Killing as fallback
+2023-05-02 21:36:27 - Stopping process 7364
+2023-05-02 21:36:27 - Send SIGINT 7364
+2023-05-02 21:36:27 - SIGINT to 7364 failed - Killing as fallback
+2023-05-02 21:36:27 - Finished percybot.exe
+2023-05-02 21:36:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 21:36:29 - Started 20852
+2023-05-02 21:37:08 - Stopping percybot.exe
+2023-05-02 21:37:08 - ProcessKill 20852
+2023-05-02 21:37:08 - Found child process: 6152 Name: conhost.exe
+2023-05-02 21:37:08 - Found child process: 16368 Name: node.exe
+2023-05-02 21:37:08 - Stopping process 6152
+2023-05-02 21:37:08 - Send SIGINT 6152
+2023-05-02 21:37:08 - SIGINT to 6152 failed - Killing as fallback
+2023-05-02 21:37:08 - Stopping process 16368
+2023-05-02 21:37:08 - Send SIGINT 16368
+2023-05-02 21:37:08 - SIGINT to 16368 failed - Killing as fallback
+2023-05-02 21:37:08 - Stopping process 20852
+2023-05-02 21:37:08 - Send SIGINT 20852
+2023-05-02 21:37:08 - SIGINT to 20852 failed - Killing as fallback
+2023-05-02 21:37:08 - Finished percybot.exe
+2023-05-02 22:46:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 22:46:02 - Started 20756
+2023-05-03 00:41:21 - Stopping percybot.exe
+2023-05-03 00:41:21 - ProcessKill 20756
+2023-05-03 00:41:21 - Found child process: 8568 Name: conhost.exe
+2023-05-03 00:41:21 - Found child process: 16980 Name: node.exe
+2023-05-03 00:41:21 - Stopping process 8568
+2023-05-03 00:41:21 - Send SIGINT 8568
+2023-05-03 00:41:21 - SIGINT to 8568 failed - Killing as fallback
+2023-05-03 00:41:21 - Stopping process 16980
+2023-05-03 00:41:21 - Send SIGINT 16980
+2023-05-03 00:41:21 - SIGINT to 16980 failed - Killing as fallback
+2023-05-03 00:41:21 - Stopping process 20756
+2023-05-03 00:41:21 - Send SIGINT 20756
+2023-05-03 00:41:21 - SIGINT to 20756 failed - Killing as fallback
+2023-05-03 00:41:21 - Finished percybot.exe
+2023-05-03 01:35:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 01:35:24 - Started 7804
+2023-05-03 01:37:04 - Stopping percybot.exe
+2023-05-03 01:37:04 - ProcessKill 7804
+2023-05-03 01:37:04 - Found child process: 7880 Name: conhost.exe
+2023-05-03 01:37:04 - Found child process: 5072 Name: node.exe
+2023-05-03 01:37:04 - Stopping process 7880
+2023-05-03 01:37:04 - Send SIGINT 7880
+2023-05-03 01:37:04 - SIGINT to 7880 failed - Killing as fallback
+2023-05-03 01:37:04 - Stopping process 5072
+2023-05-03 01:37:04 - Send SIGINT 5072
+2023-05-03 01:37:04 - SIGINT to 5072 failed - Killing as fallback
+2023-05-03 01:37:04 - Stopping process 7804
+2023-05-03 01:37:04 - Send SIGINT 7804
+2023-05-03 01:37:04 - SIGINT to 7804 failed - Killing as fallback
+2023-05-03 01:37:05 - Finished percybot.exe
+2023-05-03 07:53:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 07:53:06 - Started 7972
+2023-05-03 08:04:05 - Stopping percybot.exe
+2023-05-03 08:04:05 - ProcessKill 7972
+2023-05-03 08:04:06 - Found child process: 8000 Name: conhost.exe
+2023-05-03 08:04:06 - Found child process: 9144 Name: node.exe
+2023-05-03 08:04:06 - Stopping process 8000
+2023-05-03 08:04:06 - Send SIGINT 8000
+2023-05-03 08:04:06 - SIGINT to 8000 failed - Killing as fallback
+2023-05-03 08:04:06 - Stopping process 9144
+2023-05-03 08:04:06 - Send SIGINT 9144
+2023-05-03 08:04:06 - SIGINT to 9144 failed - Killing as fallback
+2023-05-03 08:04:06 - Stopping process 7972
+2023-05-03 08:04:06 - Send SIGINT 7972
+2023-05-03 08:04:06 - SIGINT to 7972 failed - Killing as fallback
+2023-05-03 08:04:06 - Finished percybot.exe
+2023-05-03 08:04:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 08:04:08 - Started 20828
+2023-05-03 08:04:37 - Stopping percybot.exe
+2023-05-03 08:04:37 - ProcessKill 20828
+2023-05-03 08:04:38 - Found child process: 10244 Name: conhost.exe
+2023-05-03 08:04:38 - Found child process: 4480 Name: node.exe
+2023-05-03 08:04:38 - Stopping process 10244
+2023-05-03 08:04:38 - Send SIGINT 10244
+2023-05-03 08:04:38 - SIGINT to 10244 failed - Killing as fallback
+2023-05-03 08:04:38 - Stopping process 4480
+2023-05-03 08:04:38 - Send SIGINT 4480
+2023-05-03 08:04:38 - SIGINT to 4480 failed - Killing as fallback
+2023-05-03 08:04:38 - Stopping process 20828
+2023-05-03 08:04:38 - Send SIGINT 20828
+2023-05-03 08:04:38 - SIGINT to 20828 failed - Killing as fallback
+2023-05-03 08:04:38 - Finished percybot.exe
+2023-05-03 08:04:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 08:04:40 - Started 5924
+2023-05-03 08:06:49 - Stopping percybot.exe
+2023-05-03 08:06:49 - ProcessKill 5924
+2023-05-03 08:06:49 - Found child process: 7272 Name: conhost.exe
+2023-05-03 08:06:49 - Found child process: 14144 Name: node.exe
+2023-05-03 08:06:49 - Stopping process 7272
+2023-05-03 08:06:49 - Send SIGINT 7272
+2023-05-03 08:06:49 - SIGINT to 7272 failed - Killing as fallback
+2023-05-03 08:06:49 - Stopping process 14144
+2023-05-03 08:06:49 - Send SIGINT 14144
+2023-05-03 08:06:49 - SIGINT to 14144 failed - Killing as fallback
+2023-05-03 08:06:49 - Stopping process 5924
+2023-05-03 08:06:49 - Send SIGINT 5924
+2023-05-03 08:06:49 - SIGINT to 5924 failed - Killing as fallback
+2023-05-03 08:06:49 - Finished percybot.exe
+2023-05-03 08:10:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 08:10:32 - Started 1992
+2023-05-03 08:28:38 - Stopping percybot.exe
+2023-05-03 08:28:38 - ProcessKill 1992
+2023-05-03 08:28:39 - Found child process: 16276 Name: conhost.exe
+2023-05-03 08:28:39 - Found child process: 10248 Name: node.exe
+2023-05-03 08:28:39 - Stopping process 16276
+2023-05-03 08:28:39 - Send SIGINT 16276
+2023-05-03 08:28:39 - SIGINT to 16276 failed - Killing as fallback
+2023-05-03 08:28:39 - Stopping process 10248
+2023-05-03 08:28:39 - Send SIGINT 10248
+2023-05-03 08:28:39 - SIGINT to 10248 failed - Killing as fallback
+2023-05-03 08:28:39 - Stopping process 1992
+2023-05-03 08:28:39 - Send SIGINT 1992
+2023-05-03 08:28:39 - SIGINT to 1992 failed - Killing as fallback
+2023-05-03 08:28:39 - Finished percybot.exe
+2023-05-03 08:28:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 08:28:41 - Started 9520
+2023-05-03 08:30:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 08:30:26 - Started 8376
+2023-05-03 09:19:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 09:19:29 - Started 7724
+2023-05-03 10:47:13 - Stopping percybot.exe
+2023-05-03 10:47:13 - ProcessKill 7724
+2023-05-03 10:47:13 - Found child process: 6552 Name: conhost.exe
+2023-05-03 10:47:13 - Found child process: 5732 Name: node.exe
+2023-05-03 10:47:13 - Stopping process 6552
+2023-05-03 10:47:13 - Send SIGINT 6552
+2023-05-03 10:47:13 - SIGINT to 6552 failed - Killing as fallback
+2023-05-03 10:47:13 - Stopping process 5732
+2023-05-03 10:47:13 - Send SIGINT 5732
+2023-05-03 10:47:13 - SIGINT to 5732 failed - Killing as fallback
+2023-05-03 10:47:13 - Stopping process 7724
+2023-05-03 10:47:13 - Send SIGINT 7724
+2023-05-03 10:47:13 - SIGINT to 7724 failed - Killing as fallback
+2023-05-03 10:47:13 - Finished percybot.exe
+2023-05-03 10:47:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 10:47:15 - Started 4056
+2023-05-03 10:47:20 - Stopping percybot.exe
+2023-05-03 10:47:20 - ProcessKill 4056
+2023-05-03 10:47:20 - Found child process: 324 Name: conhost.exe
+2023-05-03 10:47:20 - Found child process: 4768 Name: node.exe
+2023-05-03 10:47:20 - Stopping process 324
+2023-05-03 10:47:20 - Send SIGINT 324
+2023-05-03 10:47:20 - SIGINT to 324 failed - Killing as fallback
+2023-05-03 10:47:20 - Stopping process 4768
+2023-05-03 10:47:20 - Send SIGINT 4768
+2023-05-03 10:47:20 - SIGINT to 4768 failed - Killing as fallback
+2023-05-03 10:47:20 - Stopping process 4056
+2023-05-03 10:47:20 - Send SIGINT 4056
+2023-05-03 10:47:20 - SIGINT to 4056 failed - Killing as fallback
+2023-05-03 10:47:20 - Finished percybot.exe
+2023-05-03 10:47:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 10:47:22 - Started 13348
+2023-05-03 10:51:38 - Stopping percybot.exe
+2023-05-03 10:51:38 - ProcessKill 13348
+2023-05-03 10:51:38 - Found child process: 13052 Name: conhost.exe
+2023-05-03 10:51:38 - Found child process: 424 Name: node.exe
+2023-05-03 10:51:38 - Stopping process 13052
+2023-05-03 10:51:38 - Send SIGINT 13052
+2023-05-03 10:51:38 - SIGINT to 13052 failed - Killing as fallback
+2023-05-03 10:51:38 - Stopping process 424
+2023-05-03 10:51:38 - Send SIGINT 424
+2023-05-03 10:51:38 - SIGINT to 424 failed - Killing as fallback
+2023-05-03 10:51:38 - Stopping process 13348
+2023-05-03 10:51:38 - Send SIGINT 13348
+2023-05-03 10:51:38 - SIGINT to 13348 failed - Killing as fallback
+2023-05-03 10:51:38 - Finished percybot.exe
+2023-05-03 10:51:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 10:51:40 - Started 15272
+2023-05-03 10:52:25 - Stopping percybot.exe
+2023-05-03 10:52:25 - ProcessKill 15272
+2023-05-03 10:52:26 - Found child process: 11156 Name: conhost.exe
+2023-05-03 10:52:26 - Found child process: 15824 Name: node.exe
+2023-05-03 10:52:26 - Stopping process 11156
+2023-05-03 10:52:26 - Send SIGINT 11156
+2023-05-03 10:52:26 - SIGINT to 11156 failed - Killing as fallback
+2023-05-03 10:52:26 - Stopping process 15824
+2023-05-03 10:52:26 - Send SIGINT 15824
+2023-05-03 10:52:26 - SIGINT to 15824 failed - Killing as fallback
+2023-05-03 10:52:26 - Stopping process 15272
+2023-05-03 10:52:26 - Send SIGINT 15272
+2023-05-03 10:52:26 - SIGINT to 15272 failed - Killing as fallback
+2023-05-03 10:52:26 - Finished percybot.exe
+2023-05-03 10:52:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 10:52:27 - Started 6212
+2023-05-03 10:53:19 - Stopping percybot.exe
+2023-05-03 10:53:19 - ProcessKill 6212
+2023-05-03 10:53:19 - Found child process: 18968 Name: conhost.exe
+2023-05-03 10:53:19 - Found child process: 13224 Name: node.exe
+2023-05-03 10:53:19 - Stopping process 18968
+2023-05-03 10:53:19 - Send SIGINT 18968
+2023-05-03 10:53:19 - SIGINT to 18968 failed - Killing as fallback
+2023-05-03 10:53:20 - Stopping process 13224
+2023-05-03 10:53:20 - Send SIGINT 13224
+2023-05-03 10:53:20 - SIGINT to 13224 failed - Killing as fallback
+2023-05-03 10:53:20 - Stopping process 6212
+2023-05-03 10:53:20 - Send SIGINT 6212
+2023-05-03 10:53:20 - SIGINT to 6212 failed - Killing as fallback
+2023-05-03 10:53:20 - Finished percybot.exe
+2023-05-03 10:53:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 10:53:21 - Started 20912
+2023-05-03 11:27:35 - Stopping percybot.exe
+2023-05-03 11:27:35 - ProcessKill 20912
+2023-05-03 11:27:35 - Found child process: 2204 Name: conhost.exe
+2023-05-03 11:27:35 - Found child process: 5324 Name: node.exe
+2023-05-03 11:27:35 - Stopping process 2204
+2023-05-03 11:27:35 - Send SIGINT 2204
+2023-05-03 11:27:35 - SIGINT to 2204 failed - Killing as fallback
+2023-05-03 11:27:35 - Stopping process 5324
+2023-05-03 11:27:35 - Send SIGINT 5324
+2023-05-03 11:27:35 - SIGINT to 5324 failed - Killing as fallback
+2023-05-03 11:27:35 - Stopping process 20912
+2023-05-03 11:27:35 - Send SIGINT 20912
+2023-05-03 11:27:35 - SIGINT to 20912 failed - Killing as fallback
+2023-05-03 11:27:35 - Finished percybot.exe
+2023-05-03 11:27:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:27:37 - Started 1476
+2023-05-03 11:29:44 - Stopping percybot.exe
+2023-05-03 11:29:44 - ProcessKill 1476
+2023-05-03 11:29:44 - Found child process: 8640 Name: conhost.exe
+2023-05-03 11:29:44 - Found child process: 18524 Name: node.exe
+2023-05-03 11:29:44 - Stopping process 8640
+2023-05-03 11:29:44 - Send SIGINT 8640
+2023-05-03 11:29:44 - SIGINT to 8640 failed - Killing as fallback
+2023-05-03 11:29:45 - Stopping process 18524
+2023-05-03 11:29:45 - Send SIGINT 18524
+2023-05-03 11:29:45 - SIGINT to 18524 failed - Killing as fallback
+2023-05-03 11:29:45 - Stopping process 1476
+2023-05-03 11:29:45 - Send SIGINT 1476
+2023-05-03 11:29:45 - SIGINT to 1476 failed - Killing as fallback
+2023-05-03 11:29:45 - Finished percybot.exe
+2023-05-03 11:29:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:29:46 - Started 16440
+2023-05-03 11:38:44 - Stopping percybot.exe
+2023-05-03 11:38:44 - ProcessKill 16440
+2023-05-03 11:38:44 - Found child process: 15444 Name: conhost.exe
+2023-05-03 11:38:44 - Found child process: 10948 Name: node.exe
+2023-05-03 11:38:44 - Stopping process 15444
+2023-05-03 11:38:44 - Send SIGINT 15444
+2023-05-03 11:38:44 - SIGINT to 15444 failed - Killing as fallback
+2023-05-03 11:38:44 - Stopping process 10948
+2023-05-03 11:38:44 - Send SIGINT 10948
+2023-05-03 11:38:44 - SIGINT to 10948 failed - Killing as fallback
+2023-05-03 11:38:44 - Stopping process 16440
+2023-05-03 11:38:44 - Send SIGINT 16440
+2023-05-03 11:38:44 - SIGINT to 16440 failed - Killing as fallback
+2023-05-03 11:38:44 - Finished percybot.exe
+2023-05-03 11:38:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:38:46 - Started 19932
+2023-05-03 11:43:42 - Stopping percybot.exe
+2023-05-03 11:43:42 - ProcessKill 19932
+2023-05-03 11:43:42 - Found child process: 21124 Name: conhost.exe
+2023-05-03 11:43:42 - Found child process: 2964 Name: node.exe
+2023-05-03 11:43:42 - Stopping process 21124
+2023-05-03 11:43:42 - Send SIGINT 21124
+2023-05-03 11:43:42 - SIGINT to 21124 failed - Killing as fallback
+2023-05-03 11:43:42 - Stopping process 2964
+2023-05-03 11:43:42 - Send SIGINT 2964
+2023-05-03 11:43:42 - SIGINT to 2964 failed - Killing as fallback
+2023-05-03 11:43:42 - Stopping process 19932
+2023-05-03 11:43:42 - Send SIGINT 19932
+2023-05-03 11:43:42 - SIGINT to 19932 failed - Killing as fallback
+2023-05-03 11:43:42 - Finished percybot.exe
+2023-05-03 11:46:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:46:58 - Started 2968
+2023-05-03 11:52:42 - Stopping percybot.exe
+2023-05-03 11:52:42 - ProcessKill 2968
+2023-05-03 11:52:42 - Found child process: 18576 Name: conhost.exe
+2023-05-03 11:52:42 - Found child process: 8144 Name: node.exe
+2023-05-03 11:52:42 - Stopping process 18576
+2023-05-03 11:52:42 - Send SIGINT 18576
+2023-05-03 11:52:42 - SIGINT to 18576 failed - Killing as fallback
+2023-05-03 11:52:42 - Stopping process 8144
+2023-05-03 11:52:42 - Send SIGINT 8144
+2023-05-03 11:52:42 - SIGINT to 8144 failed - Killing as fallback
+2023-05-03 11:52:42 - Stopping process 2968
+2023-05-03 11:52:42 - Send SIGINT 2968
+2023-05-03 11:52:42 - SIGINT to 2968 failed - Killing as fallback
+2023-05-03 11:52:42 - Finished percybot.exe
+2023-05-03 11:52:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:52:44 - Started 10692
+2023-05-03 11:56:09 - Stopping percybot.exe
+2023-05-03 11:56:09 - ProcessKill 10692
+2023-05-03 11:56:10 - Found child process: 10588 Name: conhost.exe
+2023-05-03 11:56:10 - Found child process: 9376 Name: node.exe
+2023-05-03 11:56:10 - Stopping process 10588
+2023-05-03 11:56:10 - Send SIGINT 10588
+2023-05-03 11:56:10 - SIGINT to 10588 failed - Killing as fallback
+2023-05-03 11:56:10 - Stopping process 9376
+2023-05-03 11:56:10 - Send SIGINT 9376
+2023-05-03 11:56:10 - SIGINT to 9376 failed - Killing as fallback
+2023-05-03 11:56:10 - Stopping process 10692
+2023-05-03 11:56:10 - Send SIGINT 10692
+2023-05-03 11:56:10 - SIGINT to 10692 failed - Killing as fallback
+2023-05-03 11:56:10 - Finished percybot.exe
+2023-05-03 11:56:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:56:11 - Started 6020
+2023-05-03 11:57:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 11:57:16 - Started 15744
+2023-05-03 12:14:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 12:14:33 - Started 14352
+2023-05-03 12:16:00 - Stopping percybot.exe
+2023-05-03 12:16:00 - ProcessKill 14352
+2023-05-03 12:16:00 - Found child process: 12648 Name: conhost.exe
+2023-05-03 12:16:00 - Found child process: 6564 Name: node.exe
+2023-05-03 12:16:00 - Stopping process 12648
+2023-05-03 12:16:00 - Send SIGINT 12648
+2023-05-03 12:16:00 - SIGINT to 12648 failed - Killing as fallback
+2023-05-03 12:16:00 - Stopping process 6564
+2023-05-03 12:16:00 - Send SIGINT 6564
+2023-05-03 12:16:00 - SIGINT to 6564 failed - Killing as fallback
+2023-05-03 12:16:00 - Stopping process 14352
+2023-05-03 12:16:00 - Send SIGINT 14352
+2023-05-03 12:16:00 - SIGINT to 14352 failed - Killing as fallback
+2023-05-03 12:16:00 - Finished percybot.exe
+2023-05-03 12:16:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 12:16:02 - Started 11896
+2023-05-03 12:17:18 - Stopping percybot.exe
+2023-05-03 12:17:18 - ProcessKill 11896
+2023-05-03 12:17:18 - Found child process: 3080 Name: conhost.exe
+2023-05-03 12:17:18 - Found child process: 9308 Name: node.exe
+2023-05-03 12:17:18 - Stopping process 3080
+2023-05-03 12:17:18 - Send SIGINT 3080
+2023-05-03 12:17:18 - SIGINT to 3080 failed - Killing as fallback
+2023-05-03 12:17:18 - Stopping process 9308
+2023-05-03 12:17:18 - Send SIGINT 9308
+2023-05-03 12:17:18 - SIGINT to 9308 failed - Killing as fallback
+2023-05-03 12:17:18 - Stopping process 11896
+2023-05-03 12:17:18 - Send SIGINT 11896
+2023-05-03 12:17:18 - SIGINT to 11896 failed - Killing as fallback
+2023-05-03 12:17:18 - Finished percybot.exe
+2023-05-03 16:24:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 16:24:22 - Started 16980
+2023-05-03 19:12:12 - Stopping percybot.exe
+2023-05-03 19:12:12 - ProcessKill 16980
+2023-05-03 19:12:12 - Found child process: 21408 Name: conhost.exe
+2023-05-03 19:12:12 - Found child process: 4776 Name: node.exe
+2023-05-03 19:12:12 - Stopping process 21408
+2023-05-03 19:12:12 - Send SIGINT 21408
+2023-05-03 19:12:12 - SIGINT to 21408 failed - Killing as fallback
+2023-05-03 19:12:12 - Stopping process 4776
+2023-05-03 19:12:12 - Send SIGINT 4776
+2023-05-03 19:12:12 - SIGINT to 4776 failed - Killing as fallback
+2023-05-03 19:12:12 - Stopping process 16980
+2023-05-03 19:12:12 - Send SIGINT 16980
+2023-05-03 19:12:12 - SIGINT to 16980 failed - Killing as fallback
+2023-05-03 19:12:12 - Finished percybot.exe
+2023-05-03 19:12:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 19:12:14 - Started 25924
+2023-05-03 19:13:22 - Stopping percybot.exe
+2023-05-03 19:13:22 - ProcessKill 25924
+2023-05-03 19:13:22 - Found child process: 23840 Name: conhost.exe
+2023-05-03 19:13:22 - Found child process: 26948 Name: node.exe
+2023-05-03 19:13:22 - Stopping process 23840
+2023-05-03 19:13:22 - Send SIGINT 23840
+2023-05-03 19:13:22 - SIGINT to 23840 failed - Killing as fallback
+2023-05-03 19:13:22 - Stopping process 26948
+2023-05-03 19:13:22 - Send SIGINT 26948
+2023-05-03 19:13:22 - SIGINT to 26948 failed - Killing as fallback
+2023-05-03 19:13:22 - Stopping process 25924
+2023-05-03 19:13:22 - Send SIGINT 25924
+2023-05-03 19:13:22 - SIGINT to 25924 failed - Killing as fallback
+2023-05-03 19:13:22 - Finished percybot.exe
+2023-05-03 19:13:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 19:13:24 - Started 26892
+2023-05-03 20:21:37 - Stopping percybot.exe
+2023-05-03 20:21:37 - ProcessKill 26892
+2023-05-03 20:21:37 - Found child process: 27468 Name: conhost.exe
+2023-05-03 20:21:37 - Found child process: 21228 Name: node.exe
+2023-05-03 20:21:37 - Stopping process 27468
+2023-05-03 20:21:37 - Send SIGINT 27468
+2023-05-03 20:21:37 - SIGINT to 27468 failed - Killing as fallback
+2023-05-03 20:21:37 - Stopping process 21228
+2023-05-03 20:21:37 - Send SIGINT 21228
+2023-05-03 20:21:37 - SIGINT to 21228 failed - Killing as fallback
+2023-05-03 20:21:37 - Stopping process 26892
+2023-05-03 20:21:37 - Send SIGINT 26892
+2023-05-03 20:21:37 - SIGINT to 26892 failed - Killing as fallback
+2023-05-03 20:21:37 - Finished percybot.exe
+2023-05-03 20:21:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 20:21:39 - Started 16264
+2023-05-03 20:22:12 - Stopping percybot.exe
+2023-05-03 20:22:12 - ProcessKill 16264
+2023-05-03 20:22:12 - Found child process: 22540 Name: conhost.exe
+2023-05-03 20:22:12 - Found child process: 18652 Name: node.exe
+2023-05-03 20:22:12 - Stopping process 22540
+2023-05-03 20:22:12 - Send SIGINT 22540
+2023-05-03 20:22:12 - SIGINT to 22540 failed - Killing as fallback
+2023-05-03 20:22:12 - Stopping process 18652
+2023-05-03 20:22:12 - Send SIGINT 18652
+2023-05-03 20:22:12 - SIGINT to 18652 failed - Killing as fallback
+2023-05-03 20:22:12 - Stopping process 16264
+2023-05-03 20:22:12 - Send SIGINT 16264
+2023-05-03 20:22:12 - SIGINT to 16264 failed - Killing as fallback
+2023-05-03 20:22:12 - Finished percybot.exe
+2023-05-03 20:45:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 20:45:56 - Started 3656
+2023-05-04 00:23:11 - Stopping percybot.exe
+2023-05-04 00:23:11 - ProcessKill 3656
+2023-05-04 00:23:12 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-04 10:44:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-04 10:44:18 - Started 7920
+2023-05-04 13:22:36 - Stopping percybot.exe
+2023-05-04 13:22:36 - ProcessKill 7920
+2023-05-04 13:22:36 - Found child process: 7956 Name: conhost.exe
+2023-05-04 13:22:36 - Found child process: 13044 Name: node.exe
+2023-05-04 13:22:37 - Stopping process 7956
+2023-05-04 13:22:37 - Send SIGINT 7956
+2023-05-04 13:22:37 - SIGINT to 7956 failed - Killing as fallback
+2023-05-04 13:22:37 - Stopping process 13044
+2023-05-04 13:22:37 - Send SIGINT 13044
+2023-05-04 13:22:37 - SIGINT to 13044 failed - Killing as fallback
+2023-05-04 13:22:37 - Stopping process 7920
+2023-05-04 13:22:37 - Send SIGINT 7920
+2023-05-04 13:22:37 - SIGINT to 7920 failed - Killing as fallback
+2023-05-04 13:22:37 - Finished percybot.exe
+2023-05-04 16:08:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-04 16:08:59 - Started 21304
+2023-05-04 18:38:26 - Stopping percybot.exe
+2023-05-04 18:38:26 - ProcessKill 21304
+2023-05-04 18:38:27 - Found child process: 18080 Name: conhost.exe
+2023-05-04 18:38:27 - Found child process: 20976 Name: node.exe
+2023-05-04 18:38:27 - Stopping process 18080
+2023-05-04 18:38:27 - Send SIGINT 18080
+2023-05-04 18:38:27 - SIGINT to 18080 failed - Killing as fallback
+2023-05-04 18:38:28 - Stopping process 20976
+2023-05-04 18:38:28 - Send SIGINT 20976
+2023-05-04 18:38:28 - SIGINT to 20976 failed - Killing as fallback
+2023-05-04 18:38:28 - Stopping process 21304
+2023-05-04 18:38:28 - Send SIGINT 21304
+2023-05-04 18:38:28 - SIGINT to 21304 failed - Killing as fallback
+2023-05-04 18:38:28 - Finished percybot.exe
+2023-05-04 19:14:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-04 19:14:02 - Started 5088
+2023-05-04 22:55:09 - Stopping percybot.exe
+2023-05-04 22:55:09 - ProcessKill 5088
+2023-05-04 22:55:09 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-05 02:30:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-05 02:30:24 - Started 8772
+2023-05-05 09:57:09 - Stopping percybot.exe
+2023-05-05 09:57:09 - ProcessKill 8772
+2023-05-05 09:57:09 - Found child process: 8832 Name: conhost.exe
+2023-05-05 09:57:09 - Found child process: 8980 Name: node.exe
+2023-05-05 09:57:10 - Stopping process 8832
+2023-05-05 09:57:10 - Send SIGINT 8832
+2023-05-05 09:57:10 - SIGINT to 8832 failed - Killing as fallback
+2023-05-05 09:57:10 - Stopping process 8980
+2023-05-05 09:57:10 - Send SIGINT 8980
+2023-05-05 09:57:10 - SIGINT to 8980 failed - Killing as fallback
+2023-05-05 09:57:10 - Stopping process 8772
+2023-05-05 09:57:10 - Send SIGINT 8772
+2023-05-05 09:57:10 - SIGINT to 8772 failed - Killing as fallback
+2023-05-05 09:57:10 - Finished percybot.exe
+2023-05-05 20:55:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-05 20:55:04 - Started 24220
+2023-05-06 02:26:17 - Stopping percybot.exe
+2023-05-06 02:26:17 - ProcessKill 24220
+2023-05-06 02:26:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-06 13:28:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 13:28:09 - Started 7928
+2023-05-06 14:25:15 - Stopping percybot.exe
+2023-05-06 14:25:15 - ProcessKill 7928
+2023-05-06 14:25:15 - Found child process: 8020 Name: conhost.exe
+2023-05-06 14:25:15 - Found child process: 8936 Name: node.exe
+2023-05-06 14:25:15 - Stopping process 8020
+2023-05-06 14:25:15 - Send SIGINT 8020
+2023-05-06 14:25:15 - SIGINT to 8020 failed - Killing as fallback
+2023-05-06 14:25:15 - Stopping process 8936
+2023-05-06 14:25:15 - Send SIGINT 8936
+2023-05-06 14:25:15 - SIGINT to 8936 failed - Killing as fallback
+2023-05-06 14:25:15 - Stopping process 7928
+2023-05-06 14:25:15 - Send SIGINT 7928
+2023-05-06 14:25:15 - SIGINT to 7928 failed - Killing as fallback
+2023-05-06 14:25:15 - Finished percybot.exe
+2023-05-06 14:25:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 14:25:17 - Started 12104
+2023-05-06 14:25:26 - Stopping percybot.exe
+2023-05-06 14:25:26 - ProcessKill 12104
+2023-05-06 14:25:26 - Found child process: 16780 Name: conhost.exe
+2023-05-06 14:25:26 - Stopping process 16780
+2023-05-06 14:25:26 - Send SIGINT 16780
+2023-05-06 14:25:26 - SIGINT to 16780 failed - Killing as fallback
+2023-05-06 14:25:26 - Stopping process 12104
+2023-05-06 14:25:26 - Send SIGINT 12104
+2023-05-06 14:25:26 - SIGINT to 12104 failed - Killing as fallback
+2023-05-06 14:25:26 - Finished percybot.exe
+2023-05-06 18:43:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-06 18:43:22 - Started 10048
+2023-05-07 01:30:15 - Stopping percybot.exe
+2023-05-07 01:30:15 - ProcessKill 10048
+2023-05-07 01:30:15 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-07 01:31:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-07 01:31:23 - Started 7476
+2023-05-07 02:29:00 - Stopping percybot.exe
+2023-05-07 02:29:00 - ProcessKill 7476
+2023-05-07 02:29:00 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-07 10:50:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-07 10:50:41 - Started 8024
+2023-05-07 17:41:04 - Stopping percybot.exe
+2023-05-07 17:41:04 - ProcessKill 8024
+2023-05-07 17:41:05 - Found child process: 8048 Name: conhost.exe
+2023-05-07 17:41:05 - Found child process: 22592 Name: node.exe
+2023-05-07 17:41:05 - Stopping process 8048
+2023-05-07 17:41:05 - Send SIGINT 8048
+2023-05-07 17:41:05 - SIGINT to 8048 failed - Killing as fallback
+2023-05-07 17:41:05 - Stopping process 22592
+2023-05-07 17:41:05 - Send SIGINT 22592
+2023-05-07 17:41:05 - SIGINT to 22592 failed - Killing as fallback
+2023-05-07 17:41:05 - Stopping process 8024
+2023-05-07 17:41:05 - Send SIGINT 8024
+2023-05-07 17:41:05 - SIGINT to 8024 failed - Killing as fallback
+2023-05-07 17:41:05 - Finished percybot.exe
+2023-05-07 19:07:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-07 19:07:02 - Started 14216
+2023-05-08 03:49:52 - Stopping percybot.exe
+2023-05-08 03:49:52 - ProcessKill 14216
+2023-05-08 03:49:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-08 10:54:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 10:54:15 - Started 7420
+2023-05-08 11:29:05 - Stopping percybot.exe
+2023-05-08 11:29:05 - ProcessKill 7420
+2023-05-08 11:29:05 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-08 11:29:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 11:29:55 - Started 8000
+2023-05-08 11:50:36 - Stopping percybot.exe
+2023-05-08 11:50:36 - ProcessKill 8000
+2023-05-08 11:50:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-08 11:51:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 11:51:41 - Started 8056
+2023-05-08 22:57:21 - Stopping percybot.exe
+2023-05-08 22:57:21 - ProcessKill 8056
+2023-05-08 22:57:21 - Found child process: 7232 Name: conhost.exe
+2023-05-08 22:57:21 - Found child process: 10116 Name: node.exe
+2023-05-08 22:57:22 - Stopping process 7232
+2023-05-08 22:57:22 - Send SIGINT 7232
+2023-05-08 22:57:22 - SIGINT to 7232 failed - Killing as fallback
+2023-05-08 22:57:22 - Stopping process 10116
+2023-05-08 22:57:22 - Send SIGINT 10116
+2023-05-08 22:57:22 - SIGINT to 10116 failed - Killing as fallback
+2023-05-08 22:57:22 - Stopping process 8056
+2023-05-08 22:57:22 - Send SIGINT 8056
+2023-05-08 22:57:22 - SIGINT to 8056 failed - Killing as fallback
+2023-05-08 22:57:22 - Finished percybot.exe
+2023-05-08 23:47:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 23:47:24 - Started 3044
+2023-05-08 23:48:47 - Stopping percybot.exe
+2023-05-08 23:48:47 - ProcessKill 3044
+2023-05-08 23:48:47 - Found child process: 11272 Name: conhost.exe
+2023-05-08 23:48:47 - Found child process: 21356 Name: node.exe
+2023-05-08 23:48:47 - Stopping process 11272
+2023-05-08 23:48:48 - Send SIGINT 11272
+2023-05-08 23:48:48 - SIGINT to 11272 failed - Killing as fallback
+2023-05-08 23:48:48 - Stopping process 21356
+2023-05-08 23:48:48 - Send SIGINT 21356
+2023-05-08 23:48:48 - SIGINT to 21356 failed - Killing as fallback
+2023-05-08 23:48:48 - Stopping process 3044
+2023-05-08 23:48:48 - Send SIGINT 3044
+2023-05-08 23:48:48 - SIGINT to 3044 failed - Killing as fallback
+2023-05-08 23:48:48 - Finished percybot.exe
+2023-05-08 23:58:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 23:58:13 - Started 8860
+2023-05-09 01:21:51 - Stopping percybot.exe
+2023-05-09 01:21:51 - ProcessKill 8860
+2023-05-09 01:21:51 - Shutdown exception
+Message:The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementObjectCollection.ManagementObjectEnumerator.MoveNext()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-09 09:42:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:42:49 - Started 7432
+2023-05-09 13:45:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 13:45:52 - Started 7820
+2023-05-09 15:50:54 - Stopping percybot.exe
+2023-05-09 15:50:54 - ProcessKill 7820
+2023-05-09 15:50:55 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-09 15:51:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 15:51:52 - Started 6988
+2023-05-10 05:19:50 - Stopping percybot.exe
+2023-05-10 05:19:50 - ProcessKill 6988
+2023-05-10 05:19:50 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-10 10:36:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 10:36:46 - Started 8700
+2023-05-10 20:27:20 - Stopping percybot.exe
+2023-05-10 20:27:20 - ProcessKill 8700
+2023-05-10 20:27:20 - Found child process: 8760 Name: conhost.exe
+2023-05-10 20:27:20 - Found child process: 12224 Name: node.exe
+2023-05-10 20:27:20 - Stopping process 8760
+2023-05-10 20:27:20 - Send SIGINT 8760
+2023-05-10 20:27:20 - SIGINT to 8760 failed - Killing as fallback
+2023-05-10 20:27:20 - Stopping process 12224
+2023-05-10 20:27:20 - Send SIGINT 12224
+2023-05-10 20:27:20 - SIGINT to 12224 failed - Killing as fallback
+2023-05-10 20:27:20 - Stopping process 8700
+2023-05-10 20:27:20 - Send SIGINT 8700
+2023-05-10 20:27:20 - SIGINT to 8700 failed - Killing as fallback
+2023-05-10 20:27:20 - Finished percybot.exe
+2023-05-10 20:30:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 20:30:37 - Started 23508
+2023-05-10 22:04:34 - Stopping percybot.exe
+2023-05-10 22:04:34 - ProcessKill 23508
+2023-05-10 22:04:34 - Found child process: 7948 Name: conhost.exe
+2023-05-10 22:04:34 - Found child process: 7528 Name: node.exe
+2023-05-10 22:04:35 - Stopping process 7948
+2023-05-10 22:04:35 - Send SIGINT 7948
+2023-05-10 22:04:35 - SIGINT to 7948 failed - Killing as fallback
+2023-05-10 22:04:35 - Stopping process 7528
+2023-05-10 22:04:35 - Send SIGINT 7528
+2023-05-10 22:04:35 - SIGINT to 7528 failed - Killing as fallback
+2023-05-10 22:04:35 - Stopping process 23508
+2023-05-10 22:04:35 - Send SIGINT 23508
+2023-05-10 22:04:35 - SIGINT to 23508 failed - Killing as fallback
+2023-05-10 22:04:35 - Finished percybot.exe
+2023-05-10 22:04:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 22:04:36 - Started 17860
+2023-05-10 22:21:33 - Stopping percybot.exe
+2023-05-10 22:21:33 - ProcessKill 17860
+2023-05-10 22:21:33 - Found child process: 5400 Name: conhost.exe
+2023-05-10 22:21:33 - Found child process: 13036 Name: node.exe
+2023-05-10 22:21:34 - Stopping process 5400
+2023-05-10 22:21:34 - Send SIGINT 5400
+2023-05-10 22:21:34 - SIGINT to 5400 failed - Killing as fallback
+2023-05-10 22:21:34 - Stopping process 13036
+2023-05-10 22:21:34 - Send SIGINT 13036
+2023-05-10 22:21:34 - SIGINT to 13036 failed - Killing as fallback
+2023-05-10 22:21:34 - Stopping process 17860
+2023-05-10 22:21:34 - Send SIGINT 17860
+2023-05-10 22:21:34 - SIGINT to 17860 failed - Killing as fallback
+2023-05-10 22:21:34 - Finished percybot.exe
+2023-05-10 22:21:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 22:21:35 - Started 15944
+2023-05-10 22:22:07 - Stopping percybot.exe
+2023-05-10 22:22:07 - ProcessKill 15944
+2023-05-10 22:22:07 - Found child process: 22556 Name: conhost.exe
+2023-05-10 22:22:07 - Found child process: 23644 Name: node.exe
+2023-05-10 22:22:07 - Stopping process 22556
+2023-05-10 22:22:07 - Send SIGINT 22556
+2023-05-10 22:22:07 - SIGINT to 22556 failed - Killing as fallback
+2023-05-10 22:22:07 - Stopping process 23644
+2023-05-10 22:22:07 - Send SIGINT 23644
+2023-05-10 22:22:07 - SIGINT to 23644 failed - Killing as fallback
+2023-05-10 22:22:07 - Stopping process 15944
+2023-05-10 22:22:07 - Send SIGINT 15944
+2023-05-10 22:22:07 - SIGINT to 15944 failed - Killing as fallback
+2023-05-10 22:22:07 - Finished percybot.exe
+2023-05-10 23:11:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 23:11:58 - Started 8912
+2023-05-10 23:12:02 - Stopping percybot.exe
+2023-05-10 23:12:02 - ProcessKill 8912
+2023-05-10 23:12:02 - Found child process: 22692 Name: conhost.exe
+2023-05-10 23:12:02 - Found child process: 18732 Name: node.exe
+2023-05-10 23:12:02 - Stopping process 22692
+2023-05-10 23:12:02 - Send SIGINT 22692
+2023-05-10 23:12:02 - SIGINT to 22692 failed - Killing as fallback
+2023-05-10 23:12:02 - Stopping process 18732
+2023-05-10 23:12:02 - Send SIGINT 18732
+2023-05-10 23:12:02 - SIGINT to 18732 failed - Killing as fallback
+2023-05-10 23:12:02 - Stopping process 8912
+2023-05-10 23:12:02 - Send SIGINT 8912
+2023-05-10 23:12:02 - SIGINT to 8912 failed - Killing as fallback
+2023-05-10 23:12:02 - Finished percybot.exe
+2023-05-10 23:12:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 23:12:04 - Started 2776
+2023-05-10 23:17:14 - Stopping percybot.exe
+2023-05-10 23:17:14 - ProcessKill 2776
+2023-05-10 23:17:15 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-10 23:18:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 23:18:27 - Started 7860
+2023-05-10 23:29:10 - Stopping percybot.exe
+2023-05-10 23:29:10 - ProcessKill 7860
+2023-05-10 23:29:11 - Found child process: 7888 Name: conhost.exe
+2023-05-10 23:29:11 - Found child process: 1756 Name: node.exe
+2023-05-10 23:29:11 - Stopping process 7888
+2023-05-10 23:29:11 - Send SIGINT 7888
+2023-05-10 23:29:11 - SIGINT to 7888 failed - Killing as fallback
+2023-05-10 23:29:11 - Stopping process 1756
+2023-05-10 23:29:11 - Send SIGINT 1756
+2023-05-10 23:29:11 - SIGINT to 1756 failed - Killing as fallback
+2023-05-10 23:29:11 - Stopping process 7860
+2023-05-10 23:29:11 - Send SIGINT 7860
+2023-05-10 23:29:11 - SIGINT to 7860 failed - Killing as fallback
+2023-05-10 23:29:11 - Finished percybot.exe
+2023-05-11 00:01:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 00:01:27 - Started 4408
+2023-05-11 02:04:24 - Stopping percybot.exe
+2023-05-11 02:04:24 - ProcessKill 4408
+2023-05-11 02:04:25 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 09:31:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 09:31:16 - Started 7744
+2023-05-11 10:52:16 - Stopping percybot.exe
+2023-05-11 10:52:16 - ProcessKill 7744
+2023-05-11 10:52:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 10:53:17 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 10:53:18 - Started 7640
+2023-05-11 11:07:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 11:07:26 - Started 7596
+2023-05-11 11:24:47 - Stopping percybot.exe
+2023-05-11 11:24:47 - ProcessKill 7596
+2023-05-11 11:24:47 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 11:25:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 11:25:49 - Started 7788
+2023-05-11 12:18:08 - Stopping percybot.exe
+2023-05-11 12:18:08 - ProcessKill 7788
+2023-05-11 12:18:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 12:19:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 12:19:11 - Started 8008
+2023-05-11 12:42:43 - Stopping percybot.exe
+2023-05-11 12:42:43 - ProcessKill 8008
+2023-05-11 12:42:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 12:43:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 12:43:51 - Started 7812
+2023-05-11 13:00:18 - Stopping percybot.exe
+2023-05-11 13:00:18 - ProcessKill 7812
+2023-05-11 13:00:18 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 13:01:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 13:01:33 - Started 8904
+2023-05-11 14:57:38 - Stopping percybot.exe
+2023-05-11 14:57:38 - ProcessKill 8904
+2023-05-11 14:57:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 14:58:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 14:58:55 - Started 8492
+2023-05-11 16:01:17 - Stopping percybot.exe
+2023-05-11 16:01:17 - ProcessKill 8492
+2023-05-11 16:01:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 16:02:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 16:02:28 - Started 8956
+2023-05-11 18:38:35 - Stopping percybot.exe
+2023-05-11 18:38:35 - ProcessKill 8956
+2023-05-11 18:38:35 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-11 18:39:38 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 18:39:38 - Started 6912
+2023-05-11 20:58:38 - Stopping percybot.exe
+2023-05-11 20:58:38 - ProcessKill 6912
+2023-05-11 20:58:39 - Found child process: 6936 Name: conhost.exe
+2023-05-11 20:58:39 - Found child process: 8676 Name: node.exe
+2023-05-11 20:58:39 - Stopping process 6936
+2023-05-11 20:58:39 - Send SIGINT 6936
+2023-05-11 20:58:39 - SIGINT to 6936 failed - Killing as fallback
+2023-05-11 20:58:39 - Stopping process 8676
+2023-05-11 20:58:39 - Send SIGINT 8676
+2023-05-11 20:58:39 - SIGINT to 8676 failed - Killing as fallback
+2023-05-11 20:58:39 - Stopping process 6912
+2023-05-11 20:58:39 - Send SIGINT 6912
+2023-05-11 20:58:39 - SIGINT to 6912 failed - Killing as fallback
+2023-05-11 20:58:39 - Finished percybot.exe
+2023-05-11 21:07:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-11 21:07:25 - Started 18248
+2023-05-12 04:04:45 - Stopping percybot.exe
+2023-05-12 04:04:45 - ProcessKill 18248
+2023-05-12 04:04:45 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-12 08:42:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-12 08:42:47 - Started 7216
+2023-05-12 14:25:29 - Stopping percybot.exe
+2023-05-12 14:25:29 - ProcessKill 7216
+2023-05-12 14:25:29 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-12 14:29:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-12 14:29:12 - Started 2104
+2023-05-12 14:34:35 - Stopping percybot.exe
+2023-05-12 14:34:35 - ProcessKill 2104
+2023-05-12 14:34:35 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-12 14:35:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-12 14:35:36 - Started 8756
+2023-05-12 14:37:38 - Stopping percybot.exe
+2023-05-12 14:37:38 - ProcessKill 8756
+2023-05-12 14:37:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-12 14:40:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-12 14:40:47 - Started 7652
+2023-05-13 02:13:27 - Stopping percybot.exe
+2023-05-13 02:13:27 - ProcessKill 7652
+2023-05-13 02:13:27 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-13 03:55:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-13 03:55:58 - Started 8340
+2023-05-13 04:42:53 - Stopping percybot.exe
+2023-05-13 04:42:53 - ProcessKill 8340
+2023-05-13 04:42:53 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-13 10:20:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-13 10:20:34 - Started 8428
+2023-05-14 03:21:54 - Stopping percybot.exe
+2023-05-14 03:21:54 - ProcessKill 8428
+2023-05-14 03:21:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-14 07:42:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-14 07:42:08 - Started 8032
+2023-05-15 18:48:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 18:48:21 - Started 6716
+2023-05-15 21:14:21 - Stopping percybot.exe
+2023-05-15 21:14:21 - ProcessKill 6716
+2023-05-15 21:14:21 - Found child process: 6732 Name: conhost.exe
+2023-05-15 21:14:21 - Found child process: 8848 Name: node.exe
+2023-05-15 21:14:21 - Stopping process 6732
+2023-05-15 21:14:21 - Send SIGINT 6732
+2023-05-15 21:14:21 - SIGINT to 6732 failed - Killing as fallback
+2023-05-15 21:14:22 - Stopping process 8848
+2023-05-15 21:14:22 - Send SIGINT 8848
+2023-05-15 21:14:22 - SIGINT to 8848 failed - Killing as fallback
+2023-05-15 21:14:22 - Stopping process 6716
+2023-05-15 21:14:22 - Send SIGINT 6716
+2023-05-15 21:14:22 - SIGINT to 6716 failed - Killing as fallback
+2023-05-15 21:14:22 - Finished percybot.exe
+2023-05-15 21:14:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 21:14:24 - Started 3024
+2023-05-15 21:15:55 - Stopping percybot.exe
+2023-05-15 21:15:55 - ProcessKill 3024
+2023-05-15 21:15:55 - Found child process: 16052 Name: conhost.exe
+2023-05-15 21:15:55 - Found child process: 2320 Name: node.exe
+2023-05-15 21:15:55 - Stopping process 16052
+2023-05-15 21:15:55 - Send SIGINT 16052
+2023-05-15 21:15:55 - SIGINT to 16052 failed - Killing as fallback
+2023-05-15 21:15:55 - Stopping process 2320
+2023-05-15 21:15:55 - Send SIGINT 2320
+2023-05-15 21:15:55 - SIGINT to 2320 failed - Killing as fallback
+2023-05-15 21:15:55 - Stopping process 3024
+2023-05-15 21:15:55 - Send SIGINT 3024
+2023-05-15 21:15:55 - SIGINT to 3024 failed - Killing as fallback
+2023-05-15 21:15:55 - Finished percybot.exe
+2023-05-15 21:15:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 21:15:57 - Started 3328
+2023-05-16 20:39:20 - Stopping percybot.exe
+2023-05-16 20:39:20 - ProcessKill 3328
+2023-05-16 20:39:20 - Found child process: 17740 Name: conhost.exe
+2023-05-16 20:39:20 - Found child process: 8380 Name: node.exe
+2023-05-16 20:39:21 - Stopping process 17740
+2023-05-16 20:39:21 - Send SIGINT 17740
+2023-05-16 20:39:21 - SIGINT to 17740 failed - Killing as fallback
+2023-05-16 20:39:21 - Stopping process 8380
+2023-05-16 20:39:21 - Send SIGINT 8380
+2023-05-16 20:39:21 - SIGINT to 8380 failed - Killing as fallback
+2023-05-16 20:39:21 - Stopping process 3328
+2023-05-16 20:39:21 - Send SIGINT 3328
+2023-05-16 20:39:21 - SIGINT to 3328 failed - Killing as fallback
+2023-05-16 20:39:21 - Finished percybot.exe
+2023-05-16 21:14:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 21:14:30 - Started 8884
+2023-05-16 21:18:51 - Stopping percybot.exe
+2023-05-16 21:18:51 - ProcessKill 8884
+2023-05-16 21:18:51 - Found child process: 2924 Name: conhost.exe
+2023-05-16 21:18:51 - Found child process: 16300 Name: node.exe
+2023-05-16 21:18:51 - Stopping process 2924
+2023-05-16 21:18:51 - Send SIGINT 2924
+2023-05-16 21:18:51 - SIGINT to 2924 failed - Killing as fallback
+2023-05-16 21:18:51 - Stopping process 16300
+2023-05-16 21:18:51 - Send SIGINT 16300
+2023-05-16 21:18:51 - SIGINT to 16300 failed - Killing as fallback
+2023-05-16 21:18:51 - Stopping process 8884
+2023-05-16 21:18:51 - Send SIGINT 8884
+2023-05-16 21:18:51 - SIGINT to 8884 failed - Killing as fallback
+2023-05-16 21:18:51 - Finished percybot.exe
+2023-05-16 21:18:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 21:18:52 - Started 9844
+2023-05-16 21:20:00 - Stopping percybot.exe
+2023-05-16 21:20:00 - ProcessKill 9844
+2023-05-16 21:20:00 - Found child process: 1408 Name: conhost.exe
+2023-05-16 21:20:00 - Found child process: 11832 Name: node.exe
+2023-05-16 21:20:00 - Stopping process 1408
+2023-05-16 21:20:00 - Send SIGINT 1408
+2023-05-16 21:20:00 - SIGINT to 1408 failed - Killing as fallback
+2023-05-16 21:20:00 - Stopping process 11832
+2023-05-16 21:20:00 - Send SIGINT 11832
+2023-05-16 21:20:00 - SIGINT to 11832 failed - Killing as fallback
+2023-05-16 21:20:00 - Stopping process 9844
+2023-05-16 21:20:00 - Send SIGINT 9844
+2023-05-16 21:20:00 - SIGINT to 9844 failed - Killing as fallback
+2023-05-16 21:20:00 - Finished percybot.exe
+2023-05-16 21:21:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 21:21:22 - Started 18660
+2023-05-16 21:21:46 - Stopping percybot.exe
+2023-05-16 21:21:46 - ProcessKill 18660
+2023-05-16 21:21:46 - Found child process: 9528 Name: conhost.exe
+2023-05-16 21:21:46 - Found child process: 14000 Name: node.exe
+2023-05-16 21:21:46 - Stopping process 9528
+2023-05-16 21:21:46 - Send SIGINT 9528
+2023-05-16 21:21:46 - SIGINT to 9528 failed - Killing as fallback
+2023-05-16 21:21:46 - Stopping process 14000
+2023-05-16 21:21:46 - Send SIGINT 14000
+2023-05-16 21:21:46 - SIGINT to 14000 failed - Killing as fallback
+2023-05-16 21:21:46 - Stopping process 18660
+2023-05-16 21:21:46 - Send SIGINT 18660
+2023-05-16 21:21:46 - SIGINT to 18660 failed - Killing as fallback
+2023-05-16 21:21:46 - Finished percybot.exe
+2023-05-16 21:22:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 21:22:05 - Started 17152
+2023-05-16 21:22:29 - Stopping percybot.exe
+2023-05-16 21:22:29 - ProcessKill 17152
+2023-05-16 21:22:29 - Found child process: 11636 Name: conhost.exe
+2023-05-16 21:22:29 - Found child process: 2312 Name: node.exe
+2023-05-16 21:22:29 - Stopping process 11636
+2023-05-16 21:22:29 - Send SIGINT 11636
+2023-05-16 21:22:29 - SIGINT to 11636 failed - Killing as fallback
+2023-05-16 21:22:29 - Stopping process 2312
+2023-05-16 21:22:29 - Send SIGINT 2312
+2023-05-16 21:22:29 - SIGINT to 2312 failed - Killing as fallback
+2023-05-16 21:22:29 - Stopping process 17152
+2023-05-16 21:22:29 - Send SIGINT 17152
+2023-05-16 21:22:29 - SIGINT to 17152 failed - Killing as fallback
+2023-05-16 21:22:29 - Finished percybot.exe
+2023-05-16 21:22:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 21:22:31 - Started 10916
+2023-05-17 10:02:44 - Stopping percybot.exe
+2023-05-17 10:02:44 - ProcessKill 10916
+2023-05-17 10:02:44 - Found child process: 12936 Name: conhost.exe
+2023-05-17 10:02:44 - Found child process: 17548 Name: node.exe
+2023-05-17 10:02:44 - Stopping process 12936
+2023-05-17 10:02:44 - Send SIGINT 12936
+2023-05-17 10:02:44 - SIGINT to 12936 failed - Killing as fallback
+2023-05-17 10:02:44 - Stopping process 17548
+2023-05-17 10:02:44 - Send SIGINT 17548
+2023-05-17 10:02:44 - SIGINT to 17548 failed - Killing as fallback
+2023-05-17 10:02:44 - Stopping process 10916
+2023-05-17 10:02:44 - Send SIGINT 10916
+2023-05-17 10:02:44 - SIGINT to 10916 failed - Killing as fallback
+2023-05-17 10:02:44 - Finished percybot.exe
+2023-05-17 10:02:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-17 10:02:47 - Started 20268
+2023-05-17 10:03:20 - Stopping percybot.exe
+2023-05-17 10:03:20 - ProcessKill 20268
+2023-05-17 10:03:20 - Found child process: 5740 Name: conhost.exe
+2023-05-17 10:03:20 - Found child process: 17752 Name: node.exe
+2023-05-17 10:03:20 - Stopping process 5740
+2023-05-17 10:03:20 - Send SIGINT 5740
+2023-05-17 10:03:20 - SIGINT to 5740 failed - Killing as fallback
+2023-05-17 10:03:20 - Stopping process 17752
+2023-05-17 10:03:20 - Send SIGINT 17752
+2023-05-17 10:03:20 - SIGINT to 17752 failed - Killing as fallback
+2023-05-17 10:03:20 - Stopping process 20268
+2023-05-17 10:03:20 - Send SIGINT 20268
+2023-05-17 10:03:20 - SIGINT to 20268 failed - Killing as fallback
+2023-05-17 10:03:20 - Finished percybot.exe
+2023-05-17 10:03:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-17 10:03:22 - Started 9320
+2023-05-18 01:45:06 - Stopping percybot.exe
+2023-05-18 01:45:06 - ProcessKill 9320
+2023-05-18 01:45:06 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-18 09:44:02 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-18 09:44:02 - Started 6996
+2023-05-19 02:19:58 - Stopping percybot.exe
+2023-05-19 02:19:58 - ProcessKill 6996
+2023-05-19 02:19:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-19 10:58:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 10:58:15 - Started 7072
+2023-05-21 08:41:11 - Stopping percybot.exe
+2023-05-21 08:41:11 - ProcessKill 7072
+2023-05-21 08:41:11 - Found child process: 7088 Name: conhost.exe
+2023-05-21 08:41:11 - Found child process: 8088 Name: node.exe
+2023-05-21 08:41:11 - Stopping process 7088
+2023-05-21 08:41:12 - Send SIGINT 7088
+2023-05-21 08:41:12 - SIGINT to 7088 failed - Killing as fallback
+2023-05-21 08:41:12 - Stopping process 8088
+2023-05-21 08:41:12 - Send SIGINT 8088
+2023-05-21 08:41:12 - SIGINT to 8088 failed - Killing as fallback
+2023-05-21 08:41:12 - Stopping process 7072
+2023-05-21 08:41:12 - Send SIGINT 7072
+2023-05-21 08:41:12 - SIGINT to 7072 failed - Killing as fallback
+2023-05-21 08:41:12 - Finished percybot.exe
+2023-05-21 16:18:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-21 16:18:21 - Started 7068
+2023-05-22 23:06:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-22 23:06:04 - Started 6812
+2023-05-23 21:53:54 - Stopping percybot.exe
+2023-05-23 21:53:54 - ProcessKill 6812
+2023-05-23 21:53:54 - Found child process: 6828 Name: conhost.exe
+2023-05-23 21:53:54 - Found child process: 7412 Name: node.exe
+2023-05-23 21:53:54 - Stopping process 6828
+2023-05-23 21:53:54 - Send SIGINT 6828
+2023-05-23 21:53:54 - SIGINT to 6828 failed - Killing as fallback
+2023-05-23 21:53:54 - Stopping process 7412
+2023-05-23 21:53:54 - Send SIGINT 7412
+2023-05-23 21:53:54 - SIGINT to 7412 failed - Killing as fallback
+2023-05-23 21:53:54 - Stopping process 6812
+2023-05-23 21:53:54 - Send SIGINT 6812
+2023-05-23 21:53:54 - SIGINT to 6812 failed - Killing as fallback
+2023-05-23 21:53:54 - Finished percybot.exe
+2023-05-23 21:57:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 21:57:41 - Started 10820
+2023-05-27 00:44:34 - Stopping percybot.exe
+2023-05-27 00:44:34 - ProcessKill 10820
+2023-05-27 00:44:35 - Found child process: 9952 Name: conhost.exe
+2023-05-27 00:44:35 - Found child process: 1764 Name: node.exe
+2023-05-27 00:44:35 - Stopping process 9952
+2023-05-27 00:44:35 - Send SIGINT 9952
+2023-05-27 00:44:35 - SIGINT to 9952 failed - Killing as fallback
+2023-05-27 00:44:35 - Stopping process 1764
+2023-05-27 00:44:35 - Send SIGINT 1764
+2023-05-27 00:44:35 - SIGINT to 1764 failed - Killing as fallback
+2023-05-27 00:44:35 - Stopping process 10820
+2023-05-27 00:44:35 - Send SIGINT 10820
+2023-05-27 00:44:35 - SIGINT to 10820 failed - Killing as fallback
+2023-05-27 00:44:35 - Finished percybot.exe
+2023-06-02 17:11:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 17:11:24 - Started 6472
+2023-06-02 17:12:30 - Stopping percybot.exe
+2023-06-02 17:12:30 - ProcessKill 6472
+2023-06-02 17:12:30 - Found child process: 7824 Name: conhost.exe
+2023-06-02 17:12:30 - Found child process: 9984 Name: node.exe
+2023-06-02 17:12:30 - Stopping process 7824
+2023-06-02 17:12:30 - Send SIGINT 7824
+2023-06-02 17:12:30 - SIGINT to 7824 failed - Killing as fallback
+2023-06-02 17:12:30 - Stopping process 9984
+2023-06-02 17:12:30 - Send SIGINT 9984
+2023-06-02 17:12:30 - SIGINT to 9984 failed - Killing as fallback
+2023-06-02 17:12:30 - Stopping process 6472
+2023-06-02 17:12:30 - Send SIGINT 6472
+2023-06-02 17:12:30 - SIGINT to 6472 failed - Killing as fallback
+2023-06-02 17:12:30 - Finished percybot.exe
+2023-06-02 17:12:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 17:12:32 - Started 3560
+2023-06-02 17:16:37 - Stopping percybot.exe
+2023-06-02 17:16:37 - ProcessKill 3560
+2023-06-02 17:16:37 - Found child process: 17152 Name: conhost.exe
+2023-06-02 17:16:37 - Found child process: 4188 Name: node.exe
+2023-06-02 17:16:37 - Stopping process 17152
+2023-06-02 17:16:37 - Send SIGINT 17152
+2023-06-02 17:16:37 - SIGINT to 17152 failed - Killing as fallback
+2023-06-02 17:16:38 - Stopping process 4188
+2023-06-02 17:16:38 - Send SIGINT 4188
+2023-06-02 17:16:38 - SIGINT to 4188 failed - Killing as fallback
+2023-06-02 17:16:38 - Stopping process 3560
+2023-06-02 17:16:38 - Send SIGINT 3560
+2023-06-02 17:16:38 - SIGINT to 3560 failed - Killing as fallback
+2023-06-02 17:16:38 - Finished percybot.exe
+2023-06-02 17:16:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 17:16:39 - Started 4436
+2023-06-02 17:16:54 - Stopping percybot.exe
+2023-06-02 17:16:54 - ProcessKill 4436
+2023-06-02 17:16:54 - Found child process: 15104 Name: conhost.exe
+2023-06-02 17:16:54 - Found child process: 13804 Name: node.exe
+2023-06-02 17:16:54 - Stopping process 15104
+2023-06-02 17:16:54 - Send SIGINT 15104
+2023-06-02 17:16:54 - SIGINT to 15104 failed - Killing as fallback
+2023-06-02 17:16:54 - Stopping process 13804
+2023-06-02 17:16:54 - Send SIGINT 13804
+2023-06-02 17:16:54 - SIGINT to 13804 failed - Killing as fallback
+2023-06-02 17:16:54 - Stopping process 4436
+2023-06-02 17:16:54 - Send SIGINT 4436
+2023-06-02 17:16:54 - SIGINT to 4436 failed - Killing as fallback
+2023-06-02 17:16:54 - Finished percybot.exe
+2023-06-07 11:13:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 11:13:12 - Started 11828
+2023-06-07 22:12:19 - Stopping percybot.exe
+2023-06-07 22:12:19 - ProcessKill 11828
+2023-06-07 22:12:19 - Found child process: 18184 Name: conhost.exe
+2023-06-07 22:12:19 - Found child process: 2504 Name: node.exe
+2023-06-07 22:12:19 - Stopping process 18184
+2023-06-07 22:12:19 - Send SIGINT 18184
+2023-06-07 22:12:19 - SIGINT to 18184 failed - Killing as fallback
+2023-06-07 22:12:19 - Stopping process 2504
+2023-06-07 22:12:19 - Send SIGINT 2504
+2023-06-07 22:12:19 - SIGINT to 2504 failed - Killing as fallback
+2023-06-07 22:12:19 - Stopping process 11828
+2023-06-07 22:12:19 - Send SIGINT 11828
+2023-06-07 22:12:19 - SIGINT to 11828 failed - Killing as fallback
+2023-06-07 22:12:19 - Finished percybot.exe
+2023-06-07 22:12:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 22:12:21 - Started 19032
+2023-06-08 10:10:35 - Stopping percybot.exe
+2023-06-08 10:10:35 - ProcessKill 19032
+2023-06-08 10:10:35 - Found child process: 2804 Name: conhost.exe
+2023-06-08 10:10:35 - Found child process: 132 Name: node.exe
+2023-06-08 10:10:35 - Stopping process 2804
+2023-06-08 10:10:35 - Send SIGINT 2804
+2023-06-08 10:10:35 - SIGINT to 2804 failed - Killing as fallback
+2023-06-08 10:10:35 - Stopping process 132
+2023-06-08 10:10:35 - Send SIGINT 132
+2023-06-08 10:10:35 - SIGINT to 132 failed - Killing as fallback
+2023-06-08 10:10:35 - Stopping process 19032
+2023-06-08 10:10:35 - Send SIGINT 19032
+2023-06-08 10:10:35 - SIGINT to 19032 failed - Killing as fallback
+2023-06-08 10:10:35 - Finished percybot.exe
+2023-06-09 22:00:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-09 22:00:23 - Started 15888
+2023-06-09 22:00:37 - Stopping percybot.exe
+2023-06-09 22:00:37 - ProcessKill 15888
+2023-06-09 22:00:37 - Found child process: 19348 Name: conhost.exe
+2023-06-09 22:00:37 - Found child process: 5588 Name: node.exe
+2023-06-09 22:00:37 - Stopping process 19348
+2023-06-09 22:00:37 - Send SIGINT 19348
+2023-06-09 22:00:37 - SIGINT to 19348 failed - Killing as fallback
+2023-06-09 22:00:38 - Stopping process 5588
+2023-06-09 22:00:38 - Send SIGINT 5588
+2023-06-09 22:00:38 - SIGINT to 5588 failed - Killing as fallback
+2023-06-09 22:00:38 - Stopping process 15888
+2023-06-09 22:00:38 - Send SIGINT 15888
+2023-06-09 22:00:38 - SIGINT to 15888 failed - Killing as fallback
+2023-06-09 22:00:38 - Finished percybot.exe
+2023-07-02 19:39:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-02 19:39:38 - Started 7268
+2023-07-10 21:39:53 - Stopping percybot.exe
+2023-07-10 21:39:53 - ProcessKill 7268
+2023-07-10 21:39:54 - Found child process: 7276 Name: conhost.exe
+2023-07-10 21:39:54 - Found child process: 7728 Name: node.exe
+2023-07-10 21:39:54 - Stopping process 7276
+2023-07-10 21:39:54 - Send SIGINT 7276
+2023-07-10 21:39:54 - SIGINT to 7276 failed - Killing as fallback
+2023-07-10 21:39:54 - Stopping process 7728
+2023-07-10 21:39:54 - Send SIGINT 7728
+2023-07-10 21:39:54 - SIGINT to 7728 failed - Killing as fallback
+2023-07-10 21:39:54 - Stopping process 7268
+2023-07-10 21:39:54 - Send SIGINT 7268
+2023-07-10 21:39:54 - SIGINT to 7268 failed - Killing as fallback
+2023-07-10 21:39:54 - Finished percybot.exe
+2023-07-17 20:03:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-17 20:03:10 - Started 7972
+2023-07-19 11:53:11 - Stopping percybot.exe
+2023-07-19 11:53:11 - ProcessKill 7972
+2023-07-19 11:53:11 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-19 11:54:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-19 11:54:26 - Started 7316
+2023-07-19 12:30:45 - Stopping percybot.exe
+2023-07-19 12:30:45 - ProcessKill 7316
+2023-07-19 12:30:46 - Found child process: 7332 Name: conhost.exe
+2023-07-19 12:30:46 - Found child process: 7620 Name: node.exe
+2023-07-19 12:30:46 - Stopping process 7332
+2023-07-19 12:30:46 - Send SIGINT 7332
+2023-07-19 12:30:46 - SIGINT to 7332 failed - Killing as fallback
+2023-07-19 12:30:46 - Stopping process 7620
+2023-07-19 12:30:46 - Send SIGINT 7620
+2023-07-19 12:30:46 - SIGINT to 7620 failed - Killing as fallback
+2023-07-19 12:30:46 - Stopping process 7316
+2023-07-19 12:30:46 - Send SIGINT 7316
+2023-07-19 12:30:46 - SIGINT to 7316 failed - Killing as fallback
+2023-07-19 12:30:46 - Finished percybot.exe
+2023-07-27 12:35:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-27 12:35:44 - Started 8304
+2023-07-27 12:37:13 - Stopping percybot.exe
+2023-07-27 12:37:13 - ProcessKill 8304
+2023-07-27 12:37:13 - Found child process: 8336 Name: conhost.exe
+2023-07-27 12:37:13 - Found child process: 7924 Name: node.exe
+2023-07-27 12:37:13 - Stopping process 8336
+2023-07-27 12:37:13 - Send SIGINT 8336
+2023-07-27 12:37:13 - SIGINT to 8336 failed - Killing as fallback
+2023-07-27 12:37:13 - Stopping process 7924
+2023-07-27 12:37:13 - Send SIGINT 7924
+2023-07-27 12:37:13 - SIGINT to 7924 failed - Killing as fallback
+2023-07-27 12:37:13 - Stopping process 8304
+2023-07-27 12:37:13 - Send SIGINT 8304
+2023-07-27 12:37:13 - SIGINT to 8304 failed - Killing as fallback
+2023-07-27 12:37:13 - Finished percybot.exe
+2023-08-10 19:05:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-10 19:05:29 - Started 7200
+2023-08-13 10:38:59 - Stopping percybot.exe
+2023-08-13 10:38:59 - ProcessKill 7200
+2023-08-13 10:39:00 - Found child process: 7208 Name: conhost.exe
+2023-08-13 10:39:00 - Found child process: 7444 Name: node.exe
+2023-08-13 10:39:00 - Stopping process 7208
+2023-08-13 10:39:00 - Send SIGINT 7208
+2023-08-13 10:39:00 - SIGINT to 7208 failed - Killing as fallback
+2023-08-13 10:39:00 - Stopping process 7444
+2023-08-13 10:39:00 - Send SIGINT 7444
+2023-08-13 10:39:00 - SIGINT to 7444 failed - Killing as fallback
+2023-08-13 10:39:00 - Stopping process 7200
+2023-08-13 10:39:00 - Send SIGINT 7200
+2023-08-13 10:39:00 - SIGINT to 7200 failed - Killing as fallback
+2023-08-13 10:39:00 - Finished percybot.exe
+2023-08-15 09:57:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-15 09:57:28 - Started 6616
+2023-08-15 11:48:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-15 11:48:40 - Started 7932
+2023-08-23 10:35:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-23 10:35:20 - Started 7620
+2023-08-23 17:36:13 - Stopping percybot.exe
+2023-08-23 17:36:13 - ProcessKill 7620
+2023-08-23 17:36:13 - Found child process: 7644 Name: conhost.exe
+2023-08-23 17:36:13 - Found child process: 8208 Name: node.exe
+2023-08-23 17:36:13 - Stopping process 7644
+2023-08-23 17:36:13 - Send SIGINT 7644
+2023-08-23 17:36:13 - SIGINT to 7644 failed - Killing as fallback
+2023-08-23 17:36:13 - Stopping process 8208
+2023-08-23 17:36:13 - Send SIGINT 8208
+2023-08-23 17:36:13 - SIGINT to 8208 failed - Killing as fallback
+2023-08-23 17:36:13 - Stopping process 7620
+2023-08-23 17:36:13 - Send SIGINT 7620
+2023-08-23 17:36:13 - SIGINT to 7620 failed - Killing as fallback
+2023-08-23 17:36:13 - Finished percybot.exe
+2023-08-25 09:56:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-25 09:56:50 - Started 7040
+2023-09-03 19:33:52 - Stopping percybot.exe
+2023-09-03 19:33:52 - ProcessKill 7040
+2023-09-03 19:33:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-03 19:35:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-03 19:35:06 - Started 6368
+2023-09-04 06:23:59 - Stopping percybot.exe
+2023-09-04 06:23:59 - ProcessKill 6368
+2023-09-04 06:23:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-04 06:25:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 06:25:01 - Started 8008
+2023-09-04 19:34:23 - Stopping percybot.exe
+2023-09-04 19:34:23 - ProcessKill 8008
+2023-09-04 19:34:23 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-04 19:35:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-04 19:35:34 - Started 6204
+2023-09-05 09:09:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-05 09:09:07 - Started 6696
+2023-09-05 21:03:51 - Stopping percybot.exe
+2023-09-05 21:03:51 - ProcessKill 6696
+2023-09-05 21:03:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-06 18:16:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-06 18:16:47 - Started 6808
+2023-09-14 04:08:06 - Stopping percybot.exe
+2023-09-14 04:08:06 - ProcessKill 6808
+2023-09-14 04:08:06 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-14 04:09:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-14 04:09:27 - Started 5024
+2023-09-16 20:32:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-16 20:32:53 - Started 6840
+2023-09-20 17:54:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-20 17:54:23 - Started 9780
+2023-09-21 17:14:38 - Stopping percybot.exe
+2023-09-21 17:14:38 - ProcessKill 9780
+2023-09-21 17:14:38 - Found child process: 13816 Name: conhost.exe
+2023-09-21 17:14:38 - Found child process: 7236 Name: node.exe
+2023-09-21 17:14:38 - Stopping process 13816
+2023-09-21 17:14:38 - Send SIGINT 13816
+2023-09-21 17:14:38 - SIGINT to 13816 failed - Killing as fallback
+2023-09-21 17:14:38 - Stopping process 7236
+2023-09-21 17:14:38 - Send SIGINT 7236
+2023-09-21 17:14:38 - SIGINT to 7236 failed - Killing as fallback
+2023-09-21 17:14:38 - Stopping process 9780
+2023-09-21 17:14:38 - Send SIGINT 9780
+2023-09-21 17:14:38 - SIGINT to 9780 failed - Killing as fallback
+2023-09-21 17:14:38 - Finished percybot.exe
+2023-09-21 17:45:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-21 17:45:24 - Started 18652
+2023-10-02 16:54:54 - Stopping percybot.exe
+2023-10-02 16:54:54 - ProcessKill 18652
+2023-10-02 16:54:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-02 20:04:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-02 20:04:07 - Started 6780
+2023-10-11 02:45:21 - Stopping percybot.exe
+2023-10-11 02:45:21 - ProcessKill 6780
+2023-10-11 02:45:21 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-11 02:46:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-11 02:46:41 - Started 7684
+2023-10-11 19:49:25 - Stopping percybot.exe
+2023-10-11 19:49:25 - ProcessKill 7684
+2023-10-11 19:49:25 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-11 19:50:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-11 19:50:27 - Started 6592
+2023-10-12 18:25:17 - Stopping percybot.exe
+2023-10-12 18:25:17 - ProcessKill 6592
+2023-10-12 18:25:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-12 18:26:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-12 18:26:31 - Started 6368
+2023-10-13 14:48:13 - Stopping percybot.exe
+2023-10-13 14:48:13 - ProcessKill 6368
+2023-10-13 14:48:14 - Found child process: 6396 Name: conhost.exe
+2023-10-13 14:48:14 - Found child process: 6864 Name: node.exe
+2023-10-13 14:48:14 - Stopping process 6396
+2023-10-13 14:48:14 - Send SIGINT 6396
+2023-10-13 14:48:14 - SIGINT to 6396 failed - Killing as fallback
+2023-10-13 14:48:14 - Stopping process 6864
+2023-10-13 14:48:14 - Send SIGINT 6864
+2023-10-13 14:48:14 - SIGINT to 6864 failed - Killing as fallback
+2023-10-13 14:48:14 - Stopping process 6368
+2023-10-13 14:48:14 - Send SIGINT 6368
+2023-10-13 14:48:14 - SIGINT to 6368 failed - Killing as fallback
+2023-10-13 14:48:14 - Finished percybot.exe
+2023-10-13 14:48:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-13 14:48:17 - Started 19836
+2023-10-13 14:48:57 - Stopping percybot.exe
+2023-10-13 14:48:57 - ProcessKill 19836
+2023-10-13 14:48:57 - Found child process: 18764 Name: conhost.exe
+2023-10-13 14:48:57 - Found child process: 14920 Name: node.exe
+2023-10-13 14:48:57 - Stopping process 18764
+2023-10-13 14:48:57 - Send SIGINT 18764
+2023-10-13 14:48:57 - SIGINT to 18764 failed - Killing as fallback
+2023-10-13 14:48:57 - Stopping process 14920
+2023-10-13 14:48:57 - Send SIGINT 14920
+2023-10-13 14:48:57 - SIGINT to 14920 failed - Killing as fallback
+2023-10-13 14:48:57 - Stopping process 19836
+2023-10-13 14:48:57 - Send SIGINT 19836
+2023-10-13 14:48:57 - SIGINT to 19836 failed - Killing as fallback
+2023-10-13 14:48:57 - Finished percybot.exe
+2023-10-14 18:14:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\desha\IdeaProjects\discord-example-app\app.js --log "percybot wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-14 18:14:02 - Started 9744
+2023-10-14 18:30:11 - Stopping percybot.exe
+2023-10-14 18:30:11 - ProcessKill 9744
+2023-10-14 18:30:12 - Found child process: 23336 Name: conhost.exe
+2023-10-14 18:30:12 - Found child process: 16516 Name: node.exe
+2023-10-14 18:30:12 - Stopping process 23336
+2023-10-14 18:30:12 - Send SIGINT 23336
+2023-10-14 18:30:12 - SIGINT to 23336 failed - Killing as fallback
+2023-10-14 18:30:12 - Stopping process 16516
+2023-10-14 18:30:12 - Send SIGINT 16516
+2023-10-14 18:30:12 - SIGINT to 16516 failed - Killing as fallback
+2023-10-14 18:30:12 - Stopping process 9744
+2023-10-14 18:30:12 - Send SIGINT 9744
+2023-10-14 18:30:12 - SIGINT to 9744 failed - Killing as fallback
+2023-10-14 18:30:12 - Finished percybot.exe

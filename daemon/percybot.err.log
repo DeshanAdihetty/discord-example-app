@@ -1,0 +1,1743 @@
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640
+      throw new DiscordAPIError(data, "code" in data ? data.code : data.error, status, method, url, requestData);
+            ^
+
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'test',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: undefined,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1102981964631380018/aW50ZXJhY3Rpb246MTEwMjk4MTk2NDYzMTM4MDAxODpZN2U0QjZKbm5Gb0ExN1E2dDZRVU9PQ0o2TURmUUsxajBVOGIydmJ5YmVTaVV5enYyTENidmE5bTJDMmNSVUxPc2owZ2hjTGpCTjZHVEhYZmQyZEY4WXJ6SUlYdjR5cWJseVVEU2RYemtuUGpyNHhnMmU1ZmxXT0F2MUoydHp1cQ/callback'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\chat.js:62
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity("Being a little fluffy baby")
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity("Being a little fluffy baby")
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity("Being a little fluffy baby")
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity({
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity({
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\app.js:33
+client.user.setActivity({
+            ^
+
+TypeError: Cannot read properties of null (reading 'setActivity')
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:33:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+DiscordAPIError[50035]: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:17:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: {
+    code: 50035,
+    errors: { data: [Object] },
+    message: 'Invalid Form Body'
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1103246824321585172/aW50ZXJhY3Rpb246MTEwMzI0NjgyNDMyMTU4NTE3MjpyazlIdm9aV2RIM1BMYkRGUHpOSE14cUJUaXN5eW04cnhHVWU0d1dCMDZUR1piMDZVSmg0OHJSMVVhTlJUZ1djNTRVTDhweWdFUDg3MjJ5SlJ1SWxDRmpVY0NtR2hHWVYyeTNrWllMcURQSjMzcHZjdWFhNktHTkNIa0JmbmRJZw/callback'
+}
+DiscordAPIError[50035]: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:17:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: {
+    code: 50035,
+    errors: { data: [Object] },
+    message: 'Invalid Form Body'
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1103247012327084053/aW50ZXJhY3Rpb246MTEwMzI0NzAxMjMyNzA4NDA1MzpieFdYREpPNFJVbUJNOXNuRnhDemVhNWtLMGRyWTV0d0xoUWFHNGdpM0FDUXpCZkhZekdZMUdFUHpDdE1XVzY5QXk2OXBHNEdkdFRvQjYyS3dHeVFRbWlQWk8yd0ZOcnprR3NCd3ZXZXV0ek95UW1WNGROZDZNQldFa2tHWUV5SQ/callback'
+}
+DiscordAPIError[50035]: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:17:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: {
+    code: 50035,
+    errors: { data: [Object] },
+    message: 'Invalid Form Body'
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1103248382337744947/aW50ZXJhY3Rpb246MTEwMzI0ODM4MjMzNzc0NDk0NzpCaksyZVlsSWo2STNSSWdITlBUUjJoeFNaYWo5aTlwWUo3MWM5TDIxVXZjWFVxUFl3UjBJUnd0U29obFNxaDlRa3c4MW8zazN0aGZ1MG9SZWRCa3RWMDkzbDFFendKdk4yQ045dENUQ1dKRkVyc25hQ09UbmV1ZkU4SUdCN1hRcg/callback'
+}
+DiscordAPIError[50035]: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:17:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: {
+    code: 50035,
+    errors: { data: [Object] },
+    message: 'Invalid Form Body'
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1103251251573030945/aW50ZXJhY3Rpb246MTEwMzI1MTI1MTU3MzAzMDk0NTpkVDZvTmRMQkk2OTR2SkJET2ppWHEzT3ZQVU5scGFFc201dlg5d3A4RU40UmRzNnlQd0t1eWtYc3dHT3Zzcm55ZTRYSFgxMzgwVGVMcnhSMk0yY0hDbWpaRjFUOWo5WEt5SkVQRGcyZm9kSkY0UVBBMzk4eDJUck1TY3E4UEVDdw/callback'
+}
+DiscordAPIError[50035]: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:17:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: {
+    code: 50035,
+    errors: { data: [Object] },
+    message: 'Invalid Form Body'
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1103265222296346646/aW50ZXJhY3Rpb246MTEwMzI2NTIyMjI5NjM0NjY0NjpUbWppejY0dmRaTllac1dPdGhHblZjU05jSlM2Nk02UXdUSWVQU003dHdha3dhM010eDgxTFV5ZmUyMjg0VkxIazZLYW1DM2lwRUNZMmlOelo1Mkt2QzBYUWdHUVZpVFd4OWdrRzVKVTlNbjdmMkpIZEIyQkJNbjdhbHZyb2Y3Ng/callback'
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+DiscordAPIError[50006]: Cannot send an empty message
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:157:15)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:33:23)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: {
+    files: [],
+    json: {
+      content: '',
+      tts: false,
+      nonce: undefined,
+      embeds: undefined,
+      components: undefined,
+      username: undefined,
+      avatar_url: undefined,
+      allowed_mentions: undefined,
+      flags: undefined,
+      message_reference: undefined,
+      attachments: undefined,
+      sticker_ids: undefined,
+      thread_name: undefined
+    }
+  },
+  rawError: { message: 'Cannot send an empty message', code: 50006 },
+  code: 50006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/375560558277296140/messages'
+}
+DiscordAPIError[50006]: Cannot send an empty message
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async TextChannel.send (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:157:15)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lore.js:33:23)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: {
+    files: [],
+    json: {
+      content: '',
+      tts: false,
+      nonce: undefined,
+      embeds: undefined,
+      components: undefined,
+      username: undefined,
+      avatar_url: undefined,
+      allowed_mentions: undefined,
+      flags: undefined,
+      message_reference: undefined,
+      attachments: undefined,
+      sticker_ids: undefined,
+      thread_name: undefined
+    }
+  },
+  rawError: { message: 'Cannot send an empty message', code: 50006 },
+  code: 50006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/channels/375560558277296140/messages'
+}
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\assign.js:42
+            })
+             ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1176:20)
+    at Module._compile (node:internal/modules/cjs/loader:1218:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:21:21)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640
+      throw new DiscordAPIError(data, "code" in data ? data.code : data.error, status, method, url, requestData);
+            ^
+
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:43:21 {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'You have joined the summoning',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1104631311383134319/aW50ZXJhY3Rpb246MTEwNDYzMTMxMTM4MzEzNDMxOTpwN3BOc1IxTmZSSTZRNXZ5QUM1Q0FEU0pxcExyWVNUN3pyZFhLNnlNbUVEbnYyNDU4UmZTR1lhalpPSTAwbk0wQjkxZ0Q4WnhxTEJhMGVZSlN1UWhMem9jS1UxNllZTE13cUllN1lqbzRiQ1JzQ242YjZuU3kyMm5BSWtJRks1Zg/callback'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:43
+                    interaction.user.sendMesssage("test")
+                                     ^
+
+TypeError: interaction.user.sendMesssage is not a function
+    at C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:43:38
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+TypeError: Cannot set properties of undefined (setting '1')
+    at Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\getPP.js:68:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5)
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:54:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1108343983828123768/aW50ZXJhY3Rpb246MTEwODM0Mzk4MzgyODEyMzc2ODpBS0s4Y2hicWZxb1ZVMUt6UWtKUjZ0OFlsWElDNDdiQTJJeloxaGVEdG5KVnRmQmVuUHhNZFh5RWRMWndiaWlpRE5rcWRIQkRNdzZPaWR6SmhkQVdNTzdidTVVZUZJekZkZ0hXOXV0Q3V0clpYMnl3YTNET1lENGJFNTNpYXh1dQ/callback'
+}
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:51:7)
+Emitted 'error' event on Client instance at:
+    at emitUnhandledRejectionOrErr (node:events:394:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'There was an error while executing this command!',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: {
+    message: 'Interaction has already been acknowledged.',
+    code: 40060
+  },
+  code: 40060,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1108343983828123768/aW50ZXJhY3Rpb246MTEwODM0Mzk4MzgyODEyMzc2ODpBS0s4Y2hicWZxb1ZVMUt6UWtKUjZ0OFlsWElDNDdiQTJJeloxaGVEdG5KVnRmQmVuUHhNZFh5RWRMWndiaWlpRE5rcWRIQkRNdzZPaWR6SmhkQVdNTzdidTVVZUZJekZkZ0hXOXV0Q3V0clpYMnl3YTNET1lENGJFNTNpYXh1dQ/callback'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+TypeError: Cannot read properties of undefined (reading 'split')
+    at Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\hacker.js:30:79)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5)
+TypeError: Cannot read properties of undefined (reading 'split')
+    at Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\hacker.js:30:79)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:45:5)
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:102
+    if (this.deferred || this.replied) throw new DiscordjsError(ErrorCodes.InteractionAlreadyReplied);
+                                             ^
+
+Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+    at ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:102:46)
+    at Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\randcat.js:25:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:105:5) {
+  code: 'InteractionAlreadyReplied'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:57:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:105:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1153627298113794078/aW50ZXJhY3Rpb246MTE1MzYyNzI5ODExMzc5NDA3ODpnbkdRVmlDS2pCMmdHSWlrc2V4NHc1aFYzM0R1VXo0aHZrVjd6MUExQlZpMUs2UXZ5UTZNejFEV2xIVWpTd2o2Q1BDaGVPcklBZFdnSXd4SnhuYUJBbmdyMzhQckNTaXcwNUp1c1BrM3J5cEl6RHFob0txSHJHOXRsVXFRaUVzUQ/callback'
+}
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:111:7)
+Emitted 'error' event on Client instance at:
+    at emitUnhandledRejectionOrErr (node:events:394:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'There was an error while executing this command!',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1153627298113794078/aW50ZXJhY3Rpb246MTE1MzYyNzI5ODExMzc5NDA3ODpnbkdRVmlDS2pCMmdHSWlrc2V4NHc1aFYzM0R1VXo0aHZrVjd6MUExQlZpMUs2UXZ5UTZNejFEV2xIVWpTd2o2Q1BDaGVPcklBZFdnSXd4SnhuYUJBbmdyMzhQckNTaXcwNUp1c1BrM3J5cEl6RHFob0txSHJHOXRsVXFRaUVzUQ/callback'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\managers\GuildMemberManager.js:267
+        reject(new DiscordjsError(ErrorCodes.GuildMembersTimeout));
+               ^
+
+Error [GuildMembersTimeout]: Members didn't arrive in time.
+    at Timeout._onTimeout (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\managers\GuildMemberManager.js:267:16)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'GuildMembersTimeout'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read properties of null (reading 'send')
+    at process.killkid (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (node:events:513:28)
+    at process.exit (node:internal/process/per_thread:192:15)
+    at monitor (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\desha\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+Node.js v18.16.0
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.deferReply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:69:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\hacker.js:14:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:105:5) {
+  requestBody: { files: undefined, json: { type: 5, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1154322539028418611/aW50ZXJhY3Rpb246MTE1NDMyMjUzOTAyODQxODYxMTp0UmhPSXY1UFl3c0RCWllCNVpiTHhmd0JCcDFJdDJ2MzB2Q05ERkxaT2M4MXBxYnFYQVRoVTEwYVNmbjdOQVltMDBzbXloZHJSU2pmbHI5Y2ZLOU1MbjVpaXdBTlJXMHA0ZXhnaHlUeEFZQXVOeEQycnNuSmlvREEyRmlVelNBdA/callback'
+}
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:111:7)
+Emitted 'error' event on Client instance at:
+    at emitUnhandledRejectionOrErr (node:events:394:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'There was an error while executing this command!',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: {
+    message: 'Interaction has already been acknowledged.',
+    code: 40060
+  },
+  code: 40060,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1154322539028418611/aW50ZXJhY3Rpb246MTE1NDMyMjUzOTAyODQxODYxMTp0UmhPSXY1UFl3c0RCWllCNVpiTHhmd0JCcDFJdDJ2MzB2Q05ERkxaT2M4MXBxYnFYQVRoVTEwYVNmbjdOQVltMDBzbXloZHJSU2pmbHI5Y2ZLOU1MbjVpaXdBTlJXMHA0ZXhnaHlUeEFZQXVOeEQycnNuSmlvREEyRmlVelNBdA/callback'
+}
+
+Node.js v18.16.0
+C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640
+      throw new DiscordAPIError(data, "code" in data ? data.code : data.error, status, method, url, requestData);
+            ^
+
+DiscordAPIError[40060]: Interaction has already been acknowledged.
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'Summoning friends...',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: {
+    message: 'Interaction has already been acknowledged.',
+    code: 40060
+  },
+  code: 40060,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1154359456906363011/aW50ZXJhY3Rpb246MTE1NDM1OTQ1NjkwNjM2MzAxMTphbGc2cUxHQXVheUNnMGlub2N4bFl2bzQ0bmVNMUMxNXUxOU1BN1lyaTFMN2VjQVpCeU5ZWVdlV1pyZHBseVVEcUVWRkNrOUZKSWo4VUlSRkJjTTRrMW16VjlheUhMNktWVkhhV1hqUTNkdmFFNktHTmRxQmsyaHVkN1doZ2Zvdg/callback'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\join.js:57:9)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:105:5) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1158336668919672912/aW50ZXJhY3Rpb246MTE1ODMzNjY2ODkxOTY3MjkxMjp4VlVqb3hDZ3p6ZnRxVU5WamxORGRlTDgwcEtTdHRUZXlMR0JXU01YTVJUeDdHWW9rVWdUQ3hIenVxM3Y0Vlh5MUdRYW9JVFRGS1FNWGZUaVd3TVVVSHlyZTJyVzhZMjVMWXhlMDd1TTk2bllyaGUyemp5ZFZKVmdnSGFwY2dzTQ/callback'
+}
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:736:23)
+    at async REST.request (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async ChatInputCommandInteraction.reply (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:111:5)
+    at async Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:111:7)
+Emitted 'error' event on Client instance at:
+    at emitUnhandledRejectionOrErr (node:events:394:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  requestBody: {
+    files: [],
+    json: {
+      type: 4,
+      data: {
+        content: 'There was an error while executing this command!',
+        tts: false,
+        nonce: undefined,
+        embeds: undefined,
+        components: undefined,
+        username: undefined,
+        avatar_url: undefined,
+        allowed_mentions: undefined,
+        flags: 64,
+        message_reference: undefined,
+        attachments: undefined,
+        sticker_ids: undefined,
+        thread_name: undefined
+      }
+    }
+  },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1158336668919672912/aW50ZXJhY3Rpb246MTE1ODMzNjY2ODkxOTY3MjkxMjp4VlVqb3hDZ3p6ZnRxVU5WamxORGRlTDgwcEtTdHRUZXlMR0JXU01YTVJUeDdHWW9rVWdUQ3hIenVxM3Y0Vlh5MUdRYW9JVFRGS1FNWGZUaVd3TVVVSHlyZTJyVzhZMjVMWXhlMDd1TTk2bllyaGUyemp5ZFZKVmdnSGFwY2dzTQ/callback'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3008,
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'discord.com'
+}
+
+Node.js v18.16.0
+ReferenceError: location is not defined
+    at Object.execute (C:\Users\desha\IdeaProjects\discord-example-app\commands\main\lab.js:8:33)
+    at Client.<anonymous> (C:\Users\desha\IdeaProjects\discord-example-app\app.js:105:19)
+    at Client.emit (node:events:513:28)
+    at InteractionCreateAction.handle (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\client\actions\InteractionCreate.js:97:12)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\client\websocket\WebSocketManager.js:352:31)
+    at WebSocketShard.onPacket (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\client\websocket\WebSocketShard.js:494:22)
+    at WebSocketShard.onMessage (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\discord.js\src\client\websocket\WebSocketShard.js:328:10)
+    at callListener (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (C:\Users\desha\IdeaProjects\discord-example-app\node_modules\ws\lib\event-target.js:209:9)
